@@ -49,11 +49,19 @@ Les moyens de paiement acceptés sont :
 
 ---
 
-## Cours à distance
+## Cours en ligne
 
 ### Informations
 
-Pour 30 séances *à partir du 20 septembre 2022*, sauf pendant les congés scolaires
+Le club offre la possibilité de suivre des cours en ligne.
+
+- 4 niveaux, du perfectionnement à la maîtrise
+- 3 [entraîneurs professionnels]({static}/static/infos-cours-en-ligne.pdf)
+- 5 créneaux horaires proposés
+- 15 personnes maximum par cours
+- 30 séances d'1h30 étalées sur la saison sportive
+- Démarrage dans la semaine du 19 septembre 2022
+- 1 cours d'essai offert
 
 Les inscriptions se font en ligne sur le site [**Weezevent**](https://my.weezevent.com/inscription-apports-techniques-a-distance-2022-2023).
 
@@ -63,13 +71,16 @@ Les inscriptions se font en ligne sur le site [**Weezevent**](https://my.weezeve
 </td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
 | Mardi    | 20h30 / 22h     | Débutants (< 1400)                  | Bertrand (maitre FIDE)   | 
 </td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
-| Mardi    | 19h / 20h30     | Perfectionnement (1400 - 1700)      | Nikolaÿ (formateur FIDE) | 
+| Mardi    | 20h30 / 22h     | Elite (> 1800)                      | Manuel (Grand Maitre)    | 
 </td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
-| Mardi    | 20h30 / 22h     | Elite (> 1900)                      | Manuel (Grand Maitre)    | 
+| Mercredi    | 19h / 20h30     | Perfectionnement (1400 - 1800)      | Nikolaÿ (formateur FIDE) | 
 </td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
 | Mercredi | 21h / 22h30     | Débutants (< 1400)                  | Nikolaÿ (formateur FIDE) | 
 </td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
 | Jeudi    | 20h30 / 22h     | Compétition (1600 - 2000)           | Manuel (Grand Maitre)    | 
+
+<br />
+Si vous voulez en savoir plus sur nos entraineurs, n’hésitez pas à lire [**la fiche d’information détaillée.**]({static}/static/infos-cours-en-ligne.pdf).
 
 
 ### Tarifs
