@@ -11,14 +11,14 @@ Du *5 septembre 2022 au 25 juin 2023*, sauf pendant les congés scolaires
 Les inscriptions se font en ligne sur le site [**Weezevent**](https://my.weezevent.com/inscription-apports-techniques-sur-place-2022-2023-paris-16e).
 
 
-| Jour     | Horaire       | Lieu                                                  | Niveau       | Participants | Professeur | 
-| -------- |:-------------:|:-----------------------------------------------------:|:------------:|:------------:|:----------:| 
+| Jour     | Horaire       | Lieu                                                        | Niveau       | Participants | Professeur | 
+| -------- |:-------------:|:-----------------------------------------------------------:|:------------:|:------------:|:----------:| 
 </td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
-| Mardi    | 18h / 20h     | 96 bd Murat (paroisse)                                | < 1800       | Tous         | Axel       | 
+| Mardi    | 18h / 20h     | 96 bd Murat (paroisse)                                      | < 1800       | Tous         | Axel       | 
 </td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
 | Mercredi | 13h30 / 16h30 | École élémentaire <br />23 av. du Parc des Princes          | < 1300       | Jeunes       | Ahcene     | 
 </td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
-| Jeudi    | > 18h         | Centre de réfugiés des Cinq Toits <br />51 bd Exelmans     | < 1800       | Adultes      | -          | 
+| Jeudi    | > 18h         | Centre de réfugiés des Cinq Toits <br />51 bd Exelmans      | < 1800       | Adultes      | -          | 
 </td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
 | Vendredi | > 18h         | Association Générale de Familles <br />19 rue Fantin-Latour | < 2000       | Tous         | Azeddine   | 
 </td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
@@ -27,20 +27,26 @@ Les inscriptions se font en ligne sur le site [**Weezevent**](https://my.weezeve
 
 ### Tarifs
 
-#### Sans réduction d’impôts
+L’inscription inclut la licence fédérale, la participation aux rencontres par équipes, aux tournois internes, **les cours par des coachs diplômés**, **l’accès illimité** à tous les cours hebdomadaires.
 
-**250 € pour toute la saison, quel que soit le nombre de jours de participation hebdomadaire.**
+Plusieurs tarifs d’inscription sont proposés :
 
-L’inscription inclut la licence fédérale, la participation aux rencontres par équipes, aux tournois internes, les conseils de
-parcours, etc.
+- **250€** sans réduction d’impôts,
+- **563€** avec réduction d’impôts de 66%, soit **191€** après déduction *(Le JÉEN est une association agréée d’intérêt général et est donc habilitée à délivrer des
+attestations de dons*).
 
-#### Avec réduction d'impôts
+Par ailleurs, des réductions sont appliquées si plusieurs membres d’une même famille s’inscrivent au club. L’inscription doit alors se faire *directement* auprès du président du club.
 
-Le JÉEN est une association agréée d’intérêt général depuis le 22 février 2010. Il est habilité à délivrer des
-attestations de dons.
+- *-25%* à partir de la 2ème inscription,
+- *-40%* à partir de la 3ème inscription.
 
-Pour tout don d’un montant **≥ 563€** (versement en une ou plusieurs fois), le JÉEN délivre une attestation
-permettant de déduire directement de ses impôts 66% de la somme versée au club.
+Les moyens de paiement acceptés sont :
+
+- carte bancaire pour le paiement en ligne,
+- chèque,
+- chèque-vacances,
+- [Pass’Sport](https://www.education.gouv.fr/le-pass-sport-323333),
+- [Réduc’Sport](https://paris.franceolympique.com/R%C3%A9duc_Sport/).
 
 ---
 
@@ -69,14 +75,18 @@ Les inscriptions se font en ligne sur le site [**Weezevent**](https://my.weezeve
 
 ### Tarifs
 
-#### Sans réduction d’impôts
+L’inscription inclut la licence fédérale B et l’accès à la formation de **30 séances de 1h30**.
 
-Le tarif, incluant la licence fédérale B est de **160 € pour 30 séances de 1h30**.
+Plusieurs tarifs d’inscription sont proposés :
 
-#### Avec réduction d’impôts
+- **160€** sans réduction d’impôts,
+- **360€** avec réduction d’impôts de 66%, soit **122€** après déduction *(Le JÉEN est une association agréée d’intérêt général et est donc habilitée à délivrer des
+attestations de dons*).
 
-Le JÉEN est une association agréée d’intérêt général depuis le 22 février 2010. Il est habilité à délivrer des
-attestations de dons.
+Les moyens de paiement acceptés sont :
 
-Pour tout don d’un montant **≥ 360€** (versement en une ou plusieurs fois), le JÉEN délivre une attestation
-permettant de déduire directement de ses impôts 66% de la somme versée au club.
+- carte bancaire pour le paiement en ligne,
+- chèque,
+- chèque-vacances,
+- [Pass’Sport](https://www.education.gouv.fr/le-pass-sport-323333),
+- [Réduc’Sport](https://paris.franceolympique.com/R%C3%A9duc_Sport/).
