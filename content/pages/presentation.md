@@ -1,19 +1,36 @@
 Title: Présentation du club
-Date: 2022-08-30
+Date: 2022-09-03
 
-Les principaux objectifs du J.É.E.N consistent à développer les échecs et à faire progresser tout joueur, quel que soit son niveau.
+Les principaux objectifs du J.É.E.N consistent à développer les échecs et à faire progresser tout joueur, quel que soit son niveau. Il s’adresse aussi bien aux joueurs "loisirs" qui cherchent à s’amuser sans pression, qu’aux joueurs désirant pratiquer la compétition. Le club rassemble plus de 130 licenciés qui se retrouvent de manière hebdomadaire lors des sessions de jeu ainsi que lors des différents tournois.
 
 Il n'est pas nécessaire de s'inscrire pour découvrir le club : venez simplement aux horaires d'ouverture. Pour toute information complémentaire, n'hésitez pas à nous contacter par [email](mailto:jeen.echecs@gmail.com) ou par téléphone au 06 09 60 63 29.
 
-### Saison 2022-2023
+## Où et quand jouons-nous ?
 
-Le site a rouvert ses portes la semaine du 5 septembre. Comme l’an dernier, les membres du club auront plaisir à se retrouver lors des séances en présentiel, du mardi au samedi, ou bien en ligne.
+Toutes nos salles de jeu sont situées aux alentours de la porte de Saint Cloud. Nous nous retrouvons du mardi au samedi, sur des créneaux organisés par niveau ou par âge.
 
-Tous les horaires et lieux de rendez-vous sont consultables dans [**la fiche d’information 2022-2023**]({static}/static/fiche-information.pdf)
+Tous les horaires et lieux de rendez-vous sont consultables sur [**la page d’inscription**]({filename}/inscriptions.md) ainsi que sur [**la fiche d’information 2022-2023**]({static}/static/fiche-information.pdf).
 
-Il existe 2 moyens pour s’inscrire au club :
+## Les jeunes
 
-* soit directement en ligne sur le site [**Weezevent**](https://my.weezevent.com/inscription-apports-techniques-sur-place-2022-2023-paris-16e)
+La formation des jeunes est au coeur de la vie associative du club et c’est pourquoi nous accueillons plus d’une vingtaine de jeunes joueurs tous les mercredis et tous les samedis. Notre pôle de formation inclut aussi bien des débutants, à partir de 6 ans, qui viennent découvrir le jeu d’échecs, que des joueurs confirmés qui pratiquent la compétition à haut niveau depuis plusieurs années.
+
+<div align="center" >
+    <img src="{static}/images/match_jeunes.jpg" width="400" />
+</div>
+
+## La compétition
+
+Chaque année, le club engage [plusieurs équipes](http://www.echecs.asso.fr/ListeEquipes.aspx?ClubRef=836) dans les compétitions d’interclubs. Cela donne l’occasion d’aller affronter les joueurs des autres club et de progresser. Au travers de ses 4 équipes "Adultes" et de ses 2 équipes "Jeunes", le club est représenté aussi bien au niveau départemental qu’au niveau national. L’une des équipes Jeunes évoluent d’ailleurs dans le *Top 16* qui regroupe les meilleures équipes françaises.
+
+<div align="center" >
+    <img src="{static}/images/gymnase_jeunes.jpg" width="400" />
+</div>
+
+
+## Comment s’inscrire ?
+
+Rien de plus simple. Il existe 2 moyens :
+
+* soit en passant par [**la page d’inscription**]({filename}./inscriptions.md) 
 * soit directement en venant au club en téléchargeant le [**bulletin d'inscription**]({static}/static/formulaire-inscription.pdf)
-
-Par ailleurs, notre club est agréé d'intérêt général. Cela signifie qu'une partie de la cotisation au club est déductible de vos impôts !
