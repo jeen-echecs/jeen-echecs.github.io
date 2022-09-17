@@ -22,7 +22,7 @@ Les inscriptions se font en ligne sur le site [**Weezevent**](https://my.weezeve
 </td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
 | Vendredi | > 18h         | Association Générale de Familles <br />19 rue Fantin-Latour | < 2000       | Tous         | Azeddine   | 
 </td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
-| Samedi   | 14h / 17h     | Association Générale de Familles <br />19 rue Fantin-Latour | tous niveaux | Jeunes       | Luc (MI), Thierry, Ahcene | 
+| Samedi   | 14h / 17h     | 53 rue Erlanger                                             | tous niveaux | Jeunes       | Luc (MI), Thierry, Ahcene | 
 
 
 ### Tarifs
