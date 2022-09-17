@@ -14,7 +14,7 @@ DEFAULT_LANG = 'fr'
 FAVICON = u'images/favicon.ico'
 
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['i18n_subsites', ]
+PLUGINS = ['i18n_subsites', 'seo']
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
