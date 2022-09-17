@@ -9,7 +9,7 @@ Il n'est pas nécessaire de s'inscrire pour découvrir le club : venez simplemen
 
 Toutes nos salles de jeu sont situées aux alentours de la porte de Saint Cloud. Nous nous retrouvons du mardi au samedi, sur des créneaux organisés par niveau ou par âge.
 
-Tous les horaires et lieux de rendez-vous sont consultables sur [**la page d’inscription**]({filename}/inscriptions.md) ainsi que sur [**la fiche d’information 2022-2023**]({static}/static/fiche-information.pdf).
+Tous les horaires et lieux de rendez-vous sont consultables sur [**la page d’inscription**]({filename}/pages/inscriptions.md) ainsi que sur [**la fiche d’information 2022-2023**]({static}/static/fiche-information.pdf).
 
 ## Les jeunes
 
