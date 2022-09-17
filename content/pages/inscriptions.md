@@ -29,11 +29,10 @@ Les inscriptions se font en ligne sur le site [**Weezevent**](https://my.weezeve
 
 L’inscription inclut la licence fédérale, la participation aux rencontres par équipes, aux tournois internes, **les cours par des coachs diplômés**, **l’accès illimité** à tous les cours hebdomadaires.
 
-Plusieurs tarifs d’inscription sont proposés :
+Plusieurs formats d’inscription sont proposés :
 
-- **250€** sans réduction d’impôts,
-- **563€** avec réduction d’impôts de 66%, soit **191€** après déduction *(Le JÉEN est une association agréée d’intérêt général et est donc habilitée à délivrer des
-attestations de dons*).
+- l’inscription *"membre exclusif"* de **250€**,
+- l’inscription *"généreux donateur"* qui prend la forme d’un don supérieur à **563€ éligible à une réduction d’impôts de 66%**, soit **191€** après déduction fiscale[^1].
 
 Par ailleurs, des réductions sont appliquées si plusieurs membres d’une même famille s’inscrivent au club. L’inscription doit alors se faire *directement* auprès du président du club.
 
@@ -77,11 +76,10 @@ Les inscriptions se font en ligne sur le site [**Weezevent**](https://my.weezeve
 
 L’inscription inclut la licence fédérale B et l’accès à la formation de **30 séances de 1h30**.
 
-Plusieurs tarifs d’inscription sont proposés :
+Plusieurs formats d’inscription sont proposés :
 
-- **160€** sans réduction d’impôts,
-- **360€** avec réduction d’impôts de 66%, soit **122€** après déduction *(Le JÉEN est une association agréée d’intérêt général et est donc habilitée à délivrer des
-attestations de dons*).
+- l’inscription *"membre exclusif"* de **160€**,
+- l’inscription *"généreux donateur"* qui prend la forme d’un don supérieur à **360€ éligible à une réduction d’impôts de 66%**, soit **122€** après déduction fiscale[^1].
 
 Les moyens de paiement acceptés sont :
 
@@ -90,3 +88,6 @@ Les moyens de paiement acceptés sont :
 - chèque-vacances,
 - [Pass’Sport](https://www.education.gouv.fr/le-pass-sport-323333),
 - [Réduc’Sport](https://paris.franceolympique.com/R%C3%A9duc_Sport/).
+
+
+[^1]: *Le JÉEN est une association agréée d’intérêt général et est donc habilitée à délivrer des attestations de dons*.
