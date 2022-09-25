@@ -27,12 +27,12 @@ Bravo à tous les participants.
 
 #### 29ème Open de Sèvres - Classement après la ronde 7
 
-| Classement | Nom                   | Elo   | Points | Tr. | Performance |
-| --------   | --------------------- |------ | ------ | --- | ----------- |
-|  3	 	 | BOULOS Paul	         | 1760  | 6	  | 31	| 2248        |
-|  4	 	 | BERGEZ Luc            | 2327  | 6	  | 28	| 2234        |
-| 12	 	 | BELKHODJA Slim	     | 2257  | 5	  | 27  | 2043        |
-| 14         | AHMED HOLI ALI Moawia | 2032  | 5      | 26½ | 2004        |
-| 19         | LANDOLSI Iyad         | 1472  | 4½     | 24  | 1685        |
-| 33         | MOREU Raphael         | 1393  | 4      | 21½ | 1633        |
-| 35         | BOULOS Wissam         | 1807  | 4      | 21  | 1503        |
+| Classement | Nom                   | Elo  | | Points | Tr. | Performance |
+| --------   | --------------------- |------| | ------ | --- | ----------- |
+|  3	 	 | BOULOS Paul	         | 1760 | | 6	   | 31	 | 2248        |
+|  4	 	 | BERGEZ Luc            | 2327 | | 6	   | 28	 | 2234        |
+| 12	 	 | BELKHODJA Slim	     | 2257 | | 5	   | 27  | 2043        |
+| 14         | AHMED HOLI ALI Moawia | 2032 | | 5      | 26½ | 2004        |
+| 19         | LANDOLSI Iyad         | 1472 | | 4½     | 24  | 1685        |
+| 33         | MOREU Raphael         | 1393 | | 4      | 21½ | 1633        |
+| 35         | BOULOS Wissam         | 1807 | | 4      | 21  | 1503        |
