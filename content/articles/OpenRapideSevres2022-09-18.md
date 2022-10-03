@@ -28,7 +28,7 @@ Bravo à tous les participants.
 #### 29ème Open de Sèvres - Classement après la ronde 7
 
 | Classement | Nom                   | Elo  | | Points | Tr. | Performance |
-| --------   | --------------------- |------| | ------ | --- | ----------- |
+| --------   | --------------------- |:----:| |:------:|:---:|:-----------:|
 |  3	 	 | BOULOS Paul	         | 1760 | | 6	   | 31	 | 2248        |
 |  4	 	 | BERGEZ Luc            | 2327 | | 6	   | 28	 | 2234        |
 | 12	 	 | BELKHODJA Slim	     | 2257 | | 5	   | 27  | 2043        |
