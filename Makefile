@@ -44,9 +44,11 @@ help:
 	@echo '   make devserver [PORT=8000]          serve and regenerate together      '
 	@echo '   make devserver-global               regenerate and serve on 0.0.0.0    '
 	@echo '   make ftp_upload                     upload the web site via FTP        '
+	@echo '   make ftp_auto_upload                upload the web site via FTP (auto) '
 	@echo '                                                                          '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   '
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
+	@echo 'Set the LFTP_PASSWORD variable to use ftp_auto_upload                     '
 	@echo '                                                                          '
 
 html:
@@ -76,5 +78,8 @@ publish:
 ftp_upload: publish
 	lftp ftp://$(FTP_USER)@$(FTP_HOST) -e "mirror -R $(OUTPUTDIR) $(FTP_TARGET_DIR) ; quit"
 
+ftp_auto_upload: publish
+	lftp --env-password ftp://$(FTP_USER)@$(FTP_HOST) -e "mirror -R $(OUTPUTDIR) $(FTP_TARGET_DIR) ; quit"
 
-.PHONY: html help clean regenerate serve serve-global devserver publish ftp_upload
+
+.PHONY: html help clean regenerate serve serve-global devserver publish ftp_upload ftp_auto_upload
