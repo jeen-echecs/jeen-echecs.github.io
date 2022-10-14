@@ -65,7 +65,7 @@ Le calendrier global pour les équipes Jeunes est consultable en ligne sur [ce l
 
 * dimanche 16/10/22 - Club 608
 * dimanche 27/11/22 - Tour Blanche
-* dimanche 11/12/22 - Lutece Echecs
+* dimanche 11/12/22 - J.E.E.N
 * dimanche 15/01/23 - Tour Blanche
 * dimanche 29/01/23 - J.E.E.N
 
@@ -73,14 +73,9 @@ Le calendrier global pour les équipes Jeunes est consultable en ligne sur [ce l
 
 [Les dates et les lieux](http://www.echecs.asso.fr/EquipesCalendrier.aspx?Ref=4&Saison=3000) des rencontres sont :
 
-* samedi 19/11/22 - à définir
-* dimanche 20/11/22 - à définir
-* dimanche 20/11/22 - à définir
-* samedi 17/12/22 - à définir
-* dimanche 18/12/22 - à définir
-* samedi 27/05/23 - à définir
-* dimanche 28/05/23 - à définir
-* dimanche 28/05/23 - à définir
+* 19 et 20 novembre - Paris
+* 17, 18 et 19 décembre - Corbas
+* 27, 28 et 29 mai - Toulouse
 
 ### National 2 Jeunes
 
