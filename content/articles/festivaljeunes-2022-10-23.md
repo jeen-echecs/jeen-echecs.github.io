@@ -10,11 +10,11 @@ Ce week-end s’est tenu la 3ème étape du Festival Jeunes IDF à Montreuil. 9�
 Bravo à tous les participants et à l’organisation qui a été excellente.
 
 <div align="center" >
-    <img src="{static}/images/JEEN_echecs_festival_jeunes_montreuil_2022-10-25_carlos.jpeg" width="400" />
+    <img src="{static}/images/JEEN_echecs_festival_jeunes_montreuil_2022-10-25_carlos.jpeg" width="400" alt="Echecs JEEN Fectival Jeunes Montreuil Carlos Boulos"/>
 </div>
 
 <div align="center" >
-    <img src="{static}/images/JEEN_echecs_festival_jeunes_montreuil_2022-10-25_iyad_paul.jpeg" width="400" />
+    <img src="{static}/images/JEEN_echecs_festival_jeunes_montreuil_2022-10-25_iyad_paul.jpeg" width="400" alt="Echecs JEEN Fectival Jeunes Montreuil Iyad LANDOLSI - Paul Boulos"/>
 </div>
 
 
