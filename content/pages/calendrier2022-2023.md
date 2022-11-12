@@ -79,12 +79,22 @@ Le calendrier global pour les équipes Jeunes est consultable en ligne sur [ce l
 
 ### National 2 Jeunes
 
-Les dates sont définies sur [le calendrier de la ligue](https://idf-echecs.com/pages/images/Circulaire/2022/CalendrierIdF2022_2023_18juillet.pdf). Les lieux ne sont pas encore définis.
+[Les dates et les lieux](http://www.echecs.asso.fr/EquipesCalendrier.aspx?Ref=11&Saison=3000) des rencontres sont :
 
-* dimanche 20/11/22 - à définir
-* dimanche 04/12/22 - à définir
-* dimanche 18/12/22 - à définir
-* dimanche 08/01/23 - à définir
-* dimanche 22/01/23 - à définir
-* dimanche 05/03/23 - à définir
-* dimanche 26/03/23 - à définir
+* dimanche 20/11/22 - Magny le Hameau
+* dimanche 04/12/22 - Paris Lutèce
+* dimanche 18/12/22 - J.E.E.N
+* dimanche 08/01/23 - J.E.E.N
+* dimanche 22/01/23 - Paris Palamède
+* dimanche 05/03/23 - Bois-Colombes
+* dimanche 26/03/23 - J.E.E.N
+
+### National 4 Jeunes - Paris 1/Groupe A
+
+[Les dates et les lieux](http://www.echecs.asso.fr/EquipesCalendrier.aspx?Ref=1399&Saison=3000) des rencontres sont :
+
+* dimanche 20/11/22 - J.E.E.N
+* dimanche 04/12/22 - J.E.E.N
+* dimanche 18/12/22 - Paris Palamède
+* dimanche 08/01/23 - J.E.E.N
+* dimanche 22/01/23 - Paris Club 608
