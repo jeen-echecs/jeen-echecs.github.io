@@ -1,9 +1,9 @@
-Title: Résultats du 17ème rapide du Kremlin Bicetre
+Title: Résultats du 17ème rapide du Kremlin Bicêtre
 Date: 2022-11-13
 Category: Actualités
 
-3 joueurs du JEEN ont participé au 17ème rapide du CEKB, <strong>Paul Boulos</strong> termine 3ème avec 7 points sur 9
-après des deux Maîtres Internationaux <strong>Anatole Vlachos et Loic Travadon</strong> et suivie de Moawia AHMED HOLI ALI en 4ème avec 6½
+3 joueurs du JÉEN ont participé au 17ème rapide du CEKB, <strong>Paul Boulos</strong> termine 3ème avec 7 points sur 9
+derrière les deux Maîtres Internationaux <strong>Anatole Vlachos et Loic Travadon</strong> et suivi de Moawia AHMED HOLI ALI en 4ème avec 6½
 et de Mahdi Berro avec 4½.
 
 <div align="center" >
