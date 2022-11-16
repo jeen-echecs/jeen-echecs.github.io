@@ -16,5 +16,5 @@ et de Mahdi Berro avec 4½.
 <!-- Fotorama -->
 <div class="fotorama" data-width="700" data-ratio="700/467" data-max-width="100%">
   <img src="{static}/images/JEEN_echecs_Kremlin_Bicetre_2022-11-13_Boulos_Paul.jpeg" alt="Echecs JEEN Kremlin Bicetre - Paul Boulos - Moawia AHMED HOLI ALI"/>
-  <img src="{static}/images/JEEN_echecs_Kremlin_Bicetre_2022-11-13_Vlachos_Anatole_Travadon_Loic_Boulos_Paul.jpeg" alt="Echecs JEEN Kremlin Bicetre - Paul Boulos - Vlachos Anatole Travadon Loic" width="
+  <img src="{static}/images/JEEN_echecs_Kremlin_Bicetre_2022-11-13_Vlachos_Anatole_Travadon_Loic_Boulos_Paul.jpeg" alt="Echecs JEEN Kremlin Bicetre - Paul Boulos - Vlachos Anatole Travadon Loic"/>
 </div>
