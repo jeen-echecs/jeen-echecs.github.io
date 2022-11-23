@@ -11,7 +11,7 @@ Les bénévoles du JÉEN ont offert aux joueurs et aux joueuses un bar somptueux
 </div>
 </br>
 <strong>L'équipe du JÉEN  a gagné ses trois matchs :</strong> </br>
-Samedi 19 nov à 16 h : Aix-En-Provence - J.E.E.N : 2-14</br>
-dimanche 20 nov à 9 h : J.E.E.N - Echecs 16 : 10-2</br>
-dimanche 20 nov à 14 h 30 : Corbas –J.E.E.N : 4-9</br>
+Samedi 19 nov à 16 h : Aix-En-Provence - J.E.E.N : <strong>2 - 14</strong></br>
+dimanche 20 nov à 9 h : J.E.E.N - Echecs 16 : <strong>10 - 2</strong></br>
+dimanche 20 nov à 14 h 30 : Corbas –J.E.E.N : <strong>4 - 9</strong></br>
 
