@@ -31,7 +31,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Paris Echecs', 'https://echecs.paris/index.php'),
+LINKS = (
+         ('Fiche FFE du club', 'http://www.echecs.asso.fr/FicheClub.aspx?Ref=836'),
+         ('Paris Echecs', 'https://echecs.paris/index.php'),
          ('Ligue Ile de France', 'https://idf-echecs.com/pages/'),
          ('FFE', 'http://www.echecs.asso.fr/'),
         )
