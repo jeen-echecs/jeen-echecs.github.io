@@ -20,7 +20,7 @@ JINJA_ENVIRONMENT = {
 }
 
 STATIC_PATHS = ['images', 'static']
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 5
 
 
 # Feed generation is usually not desired when developing
