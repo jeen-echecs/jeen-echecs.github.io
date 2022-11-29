@@ -8,5 +8,5 @@ La canicule était aussi de la partie mais elle n’a pas entamé la motivation 
 La Tour Blanche s’est imposée aux termes des 2 rondes et conserve la coupe jusqu’à l’année prochaine. Les jeunes du JÉEN ont déjà pris rendez-vous pour l’année prochaine et ils reviendront plus motivés que jamais pour montrer les progrès accomplis.
 
 <div align="center" >
-    <img src="{static}/images/tourblanche2021.jpg" width="200" >
+    <img src="{static}/images/tourblanche2021.webp" width="400" >
 </div>

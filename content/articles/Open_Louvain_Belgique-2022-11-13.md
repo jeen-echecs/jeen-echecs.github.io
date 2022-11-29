@@ -7,13 +7,13 @@ Nos Jeunes <strong>Zayne-Eddine El Zein</strong> et <strong>Bassam El Zein</stro
 avec 4 points sur 7 pour chacun.
 
 <!--div align="center" >
-    <img src="{static}/images/JEEN_echecs_Belgique_Louvain_2022-11-13_El_Zein_Zayne-Eddine.jpeg" width="400" alt="Echecs JEEN Louvain Belgique - El Zein Zayn-Eddine"/>
+    <img src="{static}/images/JEEN_echecs_Belgique_Louvain_2022-11-13_El_Zein_Zayne-Eddine.webp" width="400" alt="Echecs JEEN Louvain Belgique - El Zein Zayn-Eddine"/>
 </div>
 
 <div align="center" >
-    <img src="{static}/images/JEEN_echecs_Belgique_Louvain_2022-11-13_El_Zein_Bassam.jpeg" alt="Echecs JEEN Louvain Belgique - El Zein Bassam" width="400" />
+    <img src="{static}/images/JEEN_echecs_Belgique_Louvain_2022-11-13_El_Zein_Bassam.webp" alt="Echecs JEEN Louvain Belgique - El Zein Bassam" width="400" />
 </div-->
 <div class="fotorama" data-width="700" data-ratio="700/467" data-max-width="100%">
-  <img src="{static}/images/JEEN_echecs_Belgique_Louvain_2022-11-13_El_Zein_Zayne-Eddine.jpeg" alt="Echecs JEEN Louvain Belgique - El Zein Zayn-Eddine"/>
-  <img src="{static}/images/JEEN_echecs_Belgique_Louvain_2022-11-13_El_Zein_Bassam.jpeg" alt="Echecs JEEN Louvain Belgique - El Zein Bassam" />
+  <img src="{static}/images/JEEN_echecs_Belgique_Louvain_2022-11-13_El_Zein_Zayne-Eddine.webp" alt="Echecs JEEN Louvain Belgique - El Zein Zayn-Eddine"/>
+  <img src="{static}/images/JEEN_echecs_Belgique_Louvain_2022-11-13_El_Zein_Bassam.webp" alt="Echecs JEEN Louvain Belgique - El Zein Bassam" />
 </div>

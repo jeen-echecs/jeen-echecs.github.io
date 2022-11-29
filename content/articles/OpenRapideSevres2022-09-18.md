@@ -9,17 +9,17 @@ Le JÉEN termine premier club en nombre de points gagnés par les 4 premiers jou
 Bravo à tous les participants.
 
 <div align="center" >
-    <img src="{static}/images/Open-Rapide-Sevres-Paul-Podium-2022-09-18.jpeg" width="400" alt="Echecs JEEN Open-Rapide-Sevres Paul Boulos - Podium" />
+    <img src="{static}/images/Open-Rapide-Sevres-Paul-Podium-2022-09-18.webp" width="400" alt="Echecs JEEN Open-Rapide-Sevres Paul Boulos - Podium" />
 </div>
 <br />
 
 <div align="center" >
-    <img src="{static}/images/Open-Rapide-Sevres-Iyad-2022-09-18.jpeg" width="400" alt="Echecs JEEN Open-Rapide-Sevres Iyad LANDOLSI" />
+    <img src="{static}/images/Open-Rapide-Sevres-Iyad-2022-09-18.webp" width="400" alt="Echecs JEEN Open-Rapide-Sevres Iyad LANDOLSI" />
 </div>
 <br />
 
 <div align="center" >
-    <img src="{static}/images/Open-Rapide-Sevres-Paul-Luc-2022-09-18.jpeg" width="400" alt="Echecs JEEN Open-Rapide-Sevres Paul Boulos - Luc Bergez" />
+    <img src="{static}/images/Open-Rapide-Sevres-Paul-Luc-2022-09-18.webp" width="400" alt="Echecs JEEN Open-Rapide-Sevres Paul Boulos - Luc Bergez" />
 </div>
 <br />
 

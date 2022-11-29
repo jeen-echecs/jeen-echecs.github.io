@@ -12,5 +12,5 @@ A partir de 14 h, des simultanées pour les jeunes de tout âge, seront dirigée
 Passez nous voir !
 
 <div align="center" >
-    <img src="{static}/images/forumdessports.jpg" width="400" />
+    <img src="{static}/images/forumdessports.webp" width="400" />
 </div>

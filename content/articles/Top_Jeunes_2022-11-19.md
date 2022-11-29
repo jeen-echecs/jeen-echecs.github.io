@@ -7,7 +7,7 @@ Ces deux dernières ont co-organisé les rencontres de ces 19 et 20 novembre. La
 <strong><a href="https://www.idf-echecs.com/pages/4-ligue-idf1/1-actus/2237-le-top-jeunes-en-idf.html" target="_blank">Ligue Idf des echecs</a></strong>.</br>
 Les bénévoles du JÉEN ont offert aux joueurs et aux joueuses un bar somptueux, dirigé par Jimy.
 <div align="center" >
-    <img src="{static}/images/JEEN_echecs_Top_Jeunes_Paris_2022-11-19.jpeg" width="400" alt="JEEN - echecs - Top_Jeunes - Paris"/>
+    <img src="{static}/images/JEEN_echecs_Top_Jeunes_Paris_2022-11-19.webp" width="400" alt="JEEN - echecs - Top_Jeunes - Paris"/>
 </div>
 </br>
 <strong>L'équipe du JÉEN  a gagné ses trois matchs :</strong> </br>

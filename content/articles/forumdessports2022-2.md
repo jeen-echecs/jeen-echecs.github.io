@@ -8,6 +8,6 @@ Le stand du JÉEN a attiré beaucoup de monde malgré la pluie : passants de tou
 Merci aux membres du JÉEN d'avoir consacré leur samedi à animer chaleureusement le stand : Iyad, Jimy, Marc, Nicolas, Paul, Rafik, Wissam.
 
 <div align="center" >
-    <img src="{static}/images/forumdessports1.jpg" width="400" />
-    <img src="{static}/images/forumdessports2.jpg" width="400" />
+    <img src="{static}/images/forumdessports1.webp" width="400" />
+    <img src="{static}/images/forumdessports2.webp" width="400" />
 </div>

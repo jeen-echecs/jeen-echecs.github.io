@@ -7,5 +7,5 @@ Category: Actualités
 Nous sommes tous fiers de notre champion et nous l'encourageons dans cette compétition.</p>
 
 <div align="center" >
-    <img src="{static}/images/JEEN_echecs_Championnats_Europe__2022-11-06_Landolsi_Iyad.jpg" width="400" alt="Echecs - JEEN - Championnats Europe - Landolsi Iyad"/>
+    <img src="{static}/images/JEEN_echecs_Championnats_Europe__2022-11-06_Landolsi_Iyad.webp" width="400" alt="Echecs - JEEN - Championnats Europe - Landolsi Iyad"/>
 </div>

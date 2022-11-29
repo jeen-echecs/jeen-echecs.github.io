@@ -3,7 +3,7 @@ Date: 2022-09-30
 Category: Actualités
 
 <div align="center" >
-    <img src="{static}/images/davidlacanrus.jpg" width="400" alt="Echecs JEEN David Lacan Rus" />
+    <img src="{static}/images/davidlacanrus.webp" width="400" alt="Echecs JEEN David Lacan Rus" />
 </div>
 <br />
 

@@ -3,7 +3,7 @@ Date: 2022-10-22
 Category: Actualités
 
 <div align="center" >
-    <img src="{static}/images/Jeen_echecs_theo_khoury_TeraFinale.jpeg" width="400" alt="Echecs JEEN Theo Khoury - TeraFinale Podium" />
+    <img src="{static}/images/Jeen_echecs_theo_khoury_TeraFinale.webp" width="400" alt="Echecs JEEN Theo Khoury - TeraFinale Podium" />
 </div>
 <br />
 

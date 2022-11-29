@@ -9,7 +9,7 @@ De nombreux jeunes joueurs du JÉEN ont participé au tournoi. Pour certains d'e
 Bravo à tous !
 
 <div align="center" >
-    <img src="{static}/images/JEEN_echecs_Championnat_qualificatif_Paris_2022-11-11_Elisabeth.jpg" width="400" alt="Echecs JEEN Kremlin Bicetre - Paul Boulos - Moawia AHMED HOLI ALI"/>
+    <img src="{static}/images/JEEN_echecs_Championnat_qualificatif_Paris_2022-11-11_Elisabeth.webp" width="400" alt="Echecs JEEN Kremlin Bicetre - Paul Boulos - Moawia AHMED HOLI ALI"/>
 </div>
 
 
