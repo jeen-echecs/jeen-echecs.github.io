@@ -12,6 +12,8 @@ FTP_HOST=ftpperso.free.fr
 FTP_USER=jeen
 FTP_TARGET_DIR=/
 
+GITHUB_PAGES_BRANCH=gh-pages
+
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
@@ -81,5 +83,8 @@ ftp_upload: publish
 ftp_auto_upload: publish
 	lftp --env-password ftp://$(FTP_USER)@$(FTP_HOST) -e "mirror -R $(OUTPUTDIR) $(FTP_TARGET_DIR) ; quit"
 
+github: publish
+	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
+	git push origin $(GITHUB_PAGES_BRANCH)
 
 .PHONY: html help clean regenerate serve serve-global devserver publish ftp_upload ftp_auto_upload
