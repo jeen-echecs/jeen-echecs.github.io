@@ -19,8 +19,10 @@ JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
 
-STATIC_PATHS = ['images', 'static', 'extra/CNAME']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+STATIC_PATHS = ['images', 'static', 'extra/CNAME', 'extra/.nojekyll']
+EXTRA_PATH_METADATA = { 'extra/CNAME': {'path': 'CNAME'},
+                        'extra/.nojekyll': {'path': '.nojekyll'},
+                      }
 
 DEFAULT_PAGINATION = 5
 
