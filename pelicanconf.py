@@ -1,6 +1,6 @@
 AUTHOR = 'msa'
 SITENAME = 'Le club du J.É.E.N'
-SITEURL = 'http://jeen.free.fr'
+SITEURL = 'https://www.jeen-echecs.fr'
 
 PATH = 'content'
 
@@ -19,7 +19,9 @@ JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
 
-STATIC_PATHS = ['images', 'static']
+STATIC_PATHS = ['images', 'static', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+
 DEFAULT_PAGINATION = 5
 
 
