@@ -26,7 +26,7 @@ Ce **tournoi féminin en cadence rapide**, dont **la finale aura lieu le 27 mai 
 - **Tarif Seniors : 15€** (25€ à partir du 10/02/2023)
 - **Tarif Jeunes : 10€** (20€ à partir du 10/02/2023)
 - **Tarif préférentiel pour les joueuses du JÉEN : 5€**
-- Inscription en ligne sur le site [Weezevent](https://my.weezevent.com/trophee-caissa-2023-phase-qualificative-parisienne)
+- Inscription en ligne sur le site <span style="color: red">[https://my.weezevent.com/trophee-caissa-2023-phase-qualificative-parisienne](https://my.weezevent.com/trophee-caissa-2023-phase-qualificative-parisienne)</span>
 - Inscription par virement (demander le RIB)
 - Inscription par chèque bancaire à adresser à : JÉEN, 75 rue d'Auteuil 75016 Paris.
 
