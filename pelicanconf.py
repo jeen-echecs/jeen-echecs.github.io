@@ -14,7 +14,7 @@ DEFAULT_LANG = 'fr'
 FAVICON = u'images/favicon.ico'
 
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['i18n_subsites', 'seo']
+PLUGINS = ['i18n_subsites', 'seo', 'sitemap']
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
@@ -26,6 +26,9 @@ EXTRA_PATH_METADATA = { 'extra/CNAME': {'path': 'CNAME'},
 
 DEFAULT_PAGINATION = 5
 
+SITEMAP = {
+    "format": "xml",
+}
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
