@@ -12,7 +12,7 @@ FTP_HOST=ftpperso.free.fr
 FTP_USER=jeen
 FTP_TARGET_DIR=/
 
-GITHUB_PAGES_BRANCH=master
+GITHUB_PAGES_BRANCH=gh-pages
 
 
 DEBUG ?= 0
