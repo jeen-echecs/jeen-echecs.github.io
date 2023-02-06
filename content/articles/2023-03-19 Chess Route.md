@@ -1,7 +1,7 @@
 title: <div><div><span style="color:rgb(11,83,148)"><font size="6"><span style="font-family:&quot;Brush Script MT&quot;">Chess Route<span style="color:rgb(0,0,0)"><font size="6"><span style="font-family:&quot;Brush Script MT&quot;"><span style="font-family:&quot;Brush Script MT&quot;"><font size="2"><span style="font-family:arial,sans-serif"></span></font></span></span></font></span></span></font></span></div></div>
 date: 2023-03-19
 category: Actualités
-url: /pages/chess-route.html
+url: pages/chess-route.html
 tags: ffe, tournoi, échecs, paris, chess xxxx
 
 <div><div><span style="color:rgb(11,83,148)"><font size="6"><span style="font-family:&quot;Brush Script MT&quot;"><span style="font-family:&quot;Brush Script MT&quot;">Première mondiale&nbsp;&nbsp;<span style="color:rgb(0,0,0)"><font size="2"><span style="font-family:arial,sans-serif"></span></font></span> </span></span></font></span></div></div>
