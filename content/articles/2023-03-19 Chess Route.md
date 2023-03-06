@@ -1,4 +1,4 @@
-title: Annonce du premier Chess Route
+title: Annonce du 1er événement Chess Route
 date: 2023-03-19
 category: Actualités
 url: pages/chess-route.html
