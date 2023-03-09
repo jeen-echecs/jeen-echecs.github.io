@@ -20,5 +20,5 @@ Pour la première fois dans le monde, **8 jeunes GM, MI, championnes, champions 
 - **Lieu**: Mairie du XVIe arrondissement à Paris
 
 <div align="center" >
-    <img src="{static}/images/JEEN_echecs_chess_route.webp" alt="affiche tournoi chess route club échecs paris 16 jeen" width="399"/>
+    <img src="{static}/images/JEEN_echecs_chess_route.webp" alt="affiche tournoi chess route club échecs paris 16 jeen" width="400"/>
 </div>
