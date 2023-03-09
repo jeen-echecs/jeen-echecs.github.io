@@ -14,11 +14,11 @@ Pour la première fois dans le monde, **8 jeunes GM, MI, championnes, champions 
  	- **Marco Materia**, 14 ans, maître international, Elo 2428, 2 fois champion de France jeunes et une fois champion de France par équipe jeunes.<br>
  	- **Phileas Mathieu**, 18 ans, maître international, Elo 2391, une fois champion de France jeunes.<br>
  	- **Emile Bassini**, 19 ans, maître fide, Elo 2342, une fois champion de France jeunes.<br>
- 	- **Andrea Navrotescu**, 27 ans, grand maître international féminin, Elo 2258, six fois championne de France chez les jeunes.<br>
+ 	- **Andreea Navrotescu**, 27 ans, grand maître international féminin, Elo 2258, six fois championne de France chez les jeunes.<br>
 
 - **Date**: Dimanche 19 mars 2023
 - **Lieu**: Mairie du XVIe arrondissement à Paris
 
 <div align="center" >
-    <img src="{static}/images/JEEN_echecs_chess_route.webp" alt="affiche tournoi chess route club échecs paris jeen" />
+    <img src="{static}/images/JEEN_echecs_chess_route.webp" alt="affiche tournoi chess route club échecs paris 16 jeen" width="400"/>
 </div>
