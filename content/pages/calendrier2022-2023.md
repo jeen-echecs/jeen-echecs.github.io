@@ -1,6 +1,8 @@
 Title: Calendrier Interclubs 2022-2023
 Date: 2022-09-18
 Menulabel: Interclubs
+tags: ffe, tournoi, club échecs, paris
+
 
 Le calendrier global de toutes les équipes Adultes est consultable en ligne sur [ce lien](https://docs.google.com/spreadsheets/d/e/2PACX-1vSQpYA-IMxIJQho1XwsaRXrADO3W1Om_fFS9BaroQZJikk8A9jtVKn1w8raeG_swtk8pB2yZNfEgDm_/pubhtml).
 
