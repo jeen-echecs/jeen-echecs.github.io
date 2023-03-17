@@ -1,5 +1,5 @@
 AUTHOR = 'msa'
-SITENAME = 'Le club du J.É.E.N'
+SITENAME = 'Le club du JÉEN'
 SITEURL = 'https://www.jeen-echecs.fr'
 
 PATH = 'content'
