@@ -15,7 +15,7 @@ Pour la première fois dans le monde, **8 jeunes GM, MI, championnes, champions 
  	- **Phileas Mathieu**, 18 ans, maitre international, Elo 2391, une fois champion de France jeunes.<br>
  	- **Emile Bassini**, 19 ans, maitre fide, Elo 2342, une fois champion de France jeunes.<br>
  	- **Andreea Navrotescu**, 27 ans, grand maitre international féminin, Elo 2258, six fois championne de France chez les jeunes. *Note de dernière minute: Andreea ne pourra finalement pas participer et sera remplacée par un invité surprise*
-- **Date**: dimanche 19 mars 2023
+- **Date**: dimanche 19 mars 2023 à 14h
 - **Lieu**: Mairie du XVIe arrondissement à Paris
 
 <div align="center" >
