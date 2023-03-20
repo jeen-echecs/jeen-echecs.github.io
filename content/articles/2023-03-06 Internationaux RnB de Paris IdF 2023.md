@@ -1,11 +1,14 @@
-title: Internationaux RnB de Paris IdF 2023
-date: 2023-03-06
+title: Championnat du Liban jeunes 2023
+date: 2023-03-18
 category: Actualités
-tags: ffe, tournoi, échecs, paris
-Description: Les adultes Adrien, Moawia, Yamine, Nathan, Iyad, Djouher et Laurent ont joué les Blitz ou les parties rapides. Eric, Yamine, Nathan et Iyad font des performances à plus de 100 points au-dessus de leur classement, voire 200 ou 300 points de plus ! Yamine décroche la première place du Blitz Accession !
+tags: ffe, échecs, paris, Championnat, jeunes, Liban
+Description: Les 2 frères El Zein sont sacrés champions du Liban jeunes
 
-Les adultes Adrien, Moawia, Yamine, Nathan, Iyad, Djouher et Laurent ont joué les blitz ou les parties rapides. Eric, Yamine, Nathan et Iyad font des performances à plus de 100 points au-dessus de leur classement, voire 200 ou 300 points de plus ! Yamine décroche la première place du Blitz Accession !
+Les 2 frères El Zein sont sacrés champions du Liban jeunes, Ils décrochent les 2 titres de champions dans les catégories : </br>
+<strong>U12</strong> pour Zayn El Zein avec 6 points sur 7 dont 2 nulles.</br>
+<strong>U10</strong> pour Bassam El Zein avec 7 points sur 7.</br>
+Félicitations à nos deux champions !!</br>
 
-<div align="center" >
-    <img src="{static}/images/PodiumInternationauxBlitz.webp" width="400" alt="JEEN échecs paris internationaux blitz"/>
+<div align="center" height="600">
+    <img src="{static}/images/JEEN_echecs_championnat_jeunes_liban_El_Zein_Zayn_Bassam_2023-03-19.jpeg" width="400" height="600" alt="JEEN échecs paris liban Championnat jeunes"/>
 </div>
