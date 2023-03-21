@@ -1,6 +1,6 @@
 AUTHOR = 'msa'
 SITENAME = 'Le club du JÉEN'
-SITEURL = 'https://www.jeen-echecs.fr'
+SITEURL = 'http://127.0.0.1:8000'
 
 PATH = 'content'
 
@@ -14,7 +14,7 @@ DEFAULT_LANG = 'fr'
 FAVICON = u'images/favicon.ico'
 
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['i18n_subsites', 'seo', 'sitemap']
+PLUGINS = ['i18n_subsites', 'photos', 'seo', 'sitemap']
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
@@ -76,3 +76,14 @@ DISPLAY_CATEGORIES_ON_MENU = False
 # Twitter timeline in sidebar
 TWITTER_USERNAME = "JEEN_Echecs"
 TWITTER_WIDGET_ID = 1234
+
+# Configuration for photos
+PHOTO_LIBRARY = "photos"
+PHOTO_GALLERY = (1024, 768, 80)
+PHOTO_ARTICLE = (760, 506, 80)
+PHOTO_RESIZE_JOBS = 2
+PHOTO_DEFAULT_IMAGE_OPTIONS = {
+	"jpeg": {
+		"optimize": True
+	}
+}
