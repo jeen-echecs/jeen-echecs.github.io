@@ -1,4 +1,4 @@
-title: Retours du Chess Route
+title: Résultats du Chess Route
 date: 2023-03-21
 category: Actualités
 tags: ffe, tournoi, échecs, paris, chess route
