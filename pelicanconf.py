@@ -1,6 +1,6 @@
 AUTHOR = 'msa'
 SITENAME = 'Le club du JÉEN'
-SITEURL = '..'
+SITEURL = '.'
 
 PATH = 'content'
 
