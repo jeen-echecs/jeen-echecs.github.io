@@ -1,6 +1,6 @@
 AUTHOR = 'msa'
 SITENAME = 'Le club du JÉEN'
-SITEURL = '.'
+SITEURL = '..'
 
 PATH = 'content'
 
@@ -81,7 +81,8 @@ TWITTER_WIDGET_ID = 1234
 PHOTO_LIBRARY = "photos"
 PHOTO_GALLERY = (1024, 768, 80)
 PHOTO_ARTICLE = (760, 506, 80)
-PHOTO_RESIZE_JOBS = 2
+PHOTO_RESIZE_JOBS = -1
+PHOTO_EXIF_KEEP=False
 PHOTO_DEFAULT_IMAGE_OPTIONS = {
 	"jpeg": {
 		"optimize": True
