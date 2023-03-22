@@ -1,6 +1,6 @@
 AUTHOR = 'msa'
 SITENAME = 'Le club du JÉEN'
-SITEURL = 'http://127.0.0.1:8000'
+SITEURL = '.'
 
 PATH = 'content'
 
