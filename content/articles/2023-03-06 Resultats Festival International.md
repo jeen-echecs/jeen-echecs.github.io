@@ -11,8 +11,5 @@ Thibault et Raphaël se qualifient pour les championnats de France des Jeunes, i
 
 <div align="center" >
     <img src="{static}/images/PodiumKarl.webp" width="400" alt="JEEN échecs festival international podium open A"/>
-</div>
-<br />
-<div align="center" >
     <img src="{static}/images/qualificationsU16.webp" width="400" alt="JEEN échecs festival international podium qualifications U16"/>
 </div>
