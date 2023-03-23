@@ -7,3 +7,5 @@ Status: hidden
 Description: Pour la première fois dans le monde, 8 jeunes GM, MI, championnes, champions d’échecs vont s’affronter sous un format de jeu inédit.
 
 gallery::{photo}chessroute/galleries/yass/
+
+<br><a href="https://yasminebennis.fr/" target="_blank">[Crédits photos Yasmine Bennis]</a>
