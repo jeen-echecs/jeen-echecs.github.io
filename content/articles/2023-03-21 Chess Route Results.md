@@ -25,3 +25,5 @@ Le JÉEN et ses bénévoles soutiennent les projets de ses membres et les réali
 
 ![Chess Route photo finale]({photo}chessroute/JEEN_echecs_chess_tour_Remise_Prix_2023-03-19.jpg){class="floatcenter"}
 
+<a href="pages/gallerie-photos-chess-route.html">**[Gallery Photos]**</a> 
+
