@@ -6,7 +6,7 @@ description: Félicitations au vainqueur, Marco Materia, 14 ans, qui remporte ce
 
 Félicitations au vainqueur, **Marco Materia**, 14 ans (très prochainement), qui remporte ce 1er Chess Route ! Il pourrait être le petit-fils des premiers jeunes champions du JÉEN !
 
-![Chess Route photo bienvenue]({photo}chessroute/photo1.jpg){class="floatcenter" width="500"}
+![Chess Route photo bienvenue]({photo}chessroute/JEEN_echecs_chess_tour_Marc_Gatine_Marco_Materia_2023-03-19.jpg){class="floatcenter" width="500"}
 
 Bravo aux 8 champions (**Anatole Vlachos, Augustin Droin, Axel Delorme, Christophe Sochacki, Emile Bassini, Luc Bergez, Marco Materia, Phileas Mathieu**) qui ont osé s’engager dans un schéma de tournoi jusqu’alors inconnu ! Les invités ont été séduits par leur enthousiasme, leurs coups inattendus quelquefois dignes de prix de beauté, la profondeur de leurs connaissances théoriques, leur plaisir communicatif de jouer !
 
@@ -22,5 +22,5 @@ Nous remercions particulièrement [Dominique Digeon](http://dominique.digeon.pag
 
 Le JÉEN et ses bénévoles soutiennent les projets de ses membres et les réalisent. Wissam en est un exemple parfait, brillant concepteur de Chess Route avec l’aide des membres du JÉEN dont Marc, Jimy, Nicolas, Eva, Iyad, Thibault, Raphaël, Paul, Michaël, parfait metteur en scène d’un grandiose buffet libanais offert aux invités qui sont repartis avec leur petit pot de miel à offrir à mère-grand !
 
-![Chess Route photo finale]({photo}chessroute/photo5.jpg){class="floatcenter"}
+![Chess Route photo finale]({photo}chessroute/JEEN_echecs_chess_tour_Remise_Prix_2023-03-19.jpg){class="floatcenter"}
 
