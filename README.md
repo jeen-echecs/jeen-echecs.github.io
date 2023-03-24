@@ -1,3 +1,5 @@
+[![Contribute with Gitpod](https://img.shields.io/badge/Contribute%20with-Gitpod-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/jeen-echecs/jeen-echecs.github.io)
+
 ## Instructions to setup environment
 
 To generate the pages that will be published on the website, you need to install the Pelican framework and its dependencies. To do so, you need a working python 3 environment. It is recommended to install all python packages in a virtual environement (venv).
