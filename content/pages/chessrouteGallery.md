@@ -1,4 +1,4 @@
-Title: <div><span style="color:rgb(11,83,148)"><font size="12"><span style="font-family:&quot;Brush Script MT&quot;">Gallerie Photos Chess Route</font></span></div>
+Title: <div><span style="color:rgb(11,83,148)"><font size="12"><span style="font-family:&quot;Brush Script MT&quot;">Galerie Photos Chess Route</font></span></div>
 Date: 2023-03-19
 Category: Gallery
 Gallery: {photo}chessroute/galleries/yass/
