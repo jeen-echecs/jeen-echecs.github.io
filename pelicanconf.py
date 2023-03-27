@@ -74,8 +74,8 @@ BANNER_ALL_PAGES = True
 DISPLAY_CATEGORIES_ON_MENU = False
 
 # Twitter timeline in sidebar
-TWITTER_USERNAME = "JEEN_Echecs"
-TWITTER_WIDGET_ID = 1234
+# TWITTER_USERNAME = "JEEN_Echecs"
+# TWITTER_WIDGET_ID = 1234
 
 # Configuration for photos
 PHOTO_LIBRARY = "photos"
