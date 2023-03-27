@@ -1,6 +1,6 @@
-<!-- >>>> Start >>>>> PHOTO plugin: inline gallery >>>>>>>>> -->
+<!-- >>>> Start >>>>> PHOTO plugin: inline gallery in inline_gallery.html >>>>>>>>> -->
 <div class="gallery">
-    {% for title, gallery in galleries%}
+    {% for title, gallery in galleries %}
         <h1>{{ title }}</h1>
             {% for name, photo, thumb, exif, caption in gallery %}
                     <a href="{{ SITEURL }}/{{ photo }}" title="{{ name }}" exif="{{ exif }}" caption="{{ caption }}"><img src="{{ SITEURL }}/{{ thumb }}"></a>
