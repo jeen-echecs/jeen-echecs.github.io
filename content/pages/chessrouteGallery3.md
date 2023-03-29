@@ -5,4 +5,4 @@ tags: ffe, tournoi, échecs, paris, chess route
 Status: hidden
 Description: Pour la première fois dans le monde, 8 jeunes GM, MI, championnes, champions d’échecs vont s’affronter sous un format de jeu inédit.
 
-gallery::{photo}chessroute/galleries/jeen2
+gallery::{photo}chessroute/galeries/galerie3
