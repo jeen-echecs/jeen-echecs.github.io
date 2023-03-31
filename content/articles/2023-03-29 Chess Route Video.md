@@ -7,7 +7,7 @@ description: La vidéo du premier Chess Route est sortie. Nous sommes heureux de
 La vidéo du premier Chess Route est sortie ! Nous sommes heureux de la partager avec vous.
 
 <div align="center">
-    <iframe <iframe width="560" height="315" src="https://www.youtube.com/embed/QmSySkhnLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> src="https://www.youtube-nocookie.com/embed/QmSySkhnLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/QmSySkhnLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 On vous redonne également le lien vers les différentes galeries photos.  
