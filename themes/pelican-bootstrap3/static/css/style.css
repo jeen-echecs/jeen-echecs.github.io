@@ -110,6 +110,7 @@ a, a:hover {
 
 .floatleft, .align-left {
     float: left;
+    margin-right: 10px;
 }
 
 .floatcenter, .align-center {
