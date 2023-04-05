@@ -15,13 +15,9 @@ Les inscriptions se font en ligne sur le site [**Weezevent**](https://my.weezeve
 
 | Jour     | Horaire       | Lieu                                                        | Niveau       | Participants | Professeur | 
 | -------- |:-------------:|:-----------------------------------------------------------:|:------------:|:------------:|:----------:| 
-</td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
 | Mardi    | 18h / 20h     | 96 bd Murat (paroisse)                                      | < 1800       | Tous         | Axel       | 
-</td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
 | Mercredi | 13h30 / 16h30 | École élémentaire <br />23 av. du Parc des Princes          | < 1300       | Jeunes       | Ahcene     | 
-</td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
 | Vendredi | > 18h         | Association Générale de Familles <br />19 rue Fantin-Latour | < 2000       | Tous         | Azeddine   | 
-</td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
 | Samedi   | 14h / 17h     | 53 rue Erlanger                                             | tous niveaux | Jeunes       | Luc (MI), Thierry, Ahcene | 
 
 
