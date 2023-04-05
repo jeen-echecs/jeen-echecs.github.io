@@ -1,12 +1,14 @@
-Title: Inscriptions
-Date: 2022-08-31
+title: Inscriptions
+date: 2022-08-31
+tags: club échecs, paris
+description: Les principaux objectifs du JÉEN consistent à développer les échecs et à faire progresser tout joueur, quel que soit son niveau. Il s’adresse aussi bien aux joueurs "loisirs" qui cherchent à s’amuser sans pression, qu’aux joueurs désirant pratiquer la compétition. Le club rassemble plus de 130 licenciés qui se retrouvent de manière hebdomadaire lors des sessions de jeu ainsi que lors des différents tournois.
+ 
 
 ## Cours sur place
 
 ### Informations
 
-Du *5 septembre 2022 au 25 juin 2023*, sauf pendant les congés scolaires
-(à l’exception du centre des Cinq Toits, ouvert tous les jeudis pendant toute l’année).
+Du *5 septembre 2022 au 25 juin 2023*, sauf pendant les congés scolaires.
 
 Les inscriptions se font en ligne sur le site [**Weezevent**](https://my.weezevent.com/inscription-apports-techniques-sur-place-2022-2023-paris-16e).
 
@@ -17,8 +19,6 @@ Les inscriptions se font en ligne sur le site [**Weezevent**](https://my.weezeve
 | Mardi    | 18h / 20h     | 96 bd Murat (paroisse)                                      | < 1800       | Tous         | Axel       | 
 </td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
 | Mercredi | 13h30 / 16h30 | École élémentaire <br />23 av. du Parc des Princes          | < 1300       | Jeunes       | Ahcene     | 
-</td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
-| Jeudi    | > 18h         | Centre de réfugiés des Cinq Toits <br />51 bd Exelmans      | < 1800       | Adultes      | -          | 
 </td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
 | Vendredi | > 18h         | Association Générale de Familles <br />19 rue Fantin-Latour | < 2000       | Tous         | Azeddine   | 
 </td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
