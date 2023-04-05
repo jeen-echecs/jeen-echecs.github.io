@@ -64,15 +64,10 @@ Les inscriptions se font en ligne sur le site [**Weezevent**](https://my.weezeve
 
 | Jour     | Horaire         | Niveau                              | Professeur | 
 | -------- |:---------------:|:-----------------------------------:|:----------:| 
-</td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
 | Mardi    | 20h30 / 22h     | Débutants (< 1400)                  | Bertrand (maitre FIDE)   | 
-</td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
 | Mardi    | 20h30 / 22h     | Elite (> 1800)                      | Manuel (Grand Maitre)    | 
-</td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
-| Mercredi    | 19h / 20h30     | Perfectionnement (1400 - 1800)      | Nikolaÿ (formateur FIDE) | 
-</td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
+| Mercredi | 19h / 20h30     | Perfectionnement (1400 - 1800)      | Nikolaÿ (formateur FIDE) | 
 | Mercredi | 21h / 22h30     | Débutants (< 1400)                  | Nikolaÿ (formateur FIDE) | 
-</td><tr style="border-bottom:1px solid black"><td colspan="100%"></tr><td>
 | Jeudi    | 20h30 / 22h     | Compétition (1600 - 2000)           | Manuel (Grand Maitre)    | 
 
 <br />
