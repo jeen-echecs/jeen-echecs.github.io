@@ -1,5 +1,5 @@
 title: Inscriptions
-date: 2022-08-31
+date: 2023-08-06
 tags: club échecs, paris
 description: Les principaux objectifs du JÉEN consistent à développer les échecs et à faire progresser tout joueur, quel que soit son niveau. Il s’adresse aussi bien aux joueurs "loisirs" qui cherchent à s’amuser sans pression, qu’aux joueurs désirant pratiquer la compétition. Le club rassemble plus de 130 licenciés qui se retrouvent de manière hebdomadaire lors des sessions de jeu ainsi que lors des différents tournois.
  
@@ -8,18 +8,19 @@ description: Les principaux objectifs du JÉEN consistent à développer les éc
 
 ### Informations
 
-Du *5 septembre 2022 au 25 juin 2023*, sauf pendant les congés scolaires.
+Du *11 septembre 2023 au 28 juin 2024*, sauf pendant les congés scolaires.
 
 Les inscriptions se font en ligne sur le site [**Weezevent**](https://my.weezevent.com/inscription-apports-techniques-sur-place-2022-2023-paris-16e).
 
 
-| Jour     | Horaire       | Lieu                                                        | Niveau       | Participants | Professeur | 
-| -------- |:-------------:|:-----------------------------------------------------------:|:------------:|:------------:|:----------:| 
-| Mardi    | 18h / 20h     | 96 bd Murat (paroisse)                                      | < 1800       | Tous         | Axel       | 
-| Mercredi | 13h30 / 16h30 | École élémentaire <br />23 av. du Parc des Princes          | < 1300       | Jeunes       | Ahcene     | 
-| Vendredi | > 18h         | Association Générale de Familles <br />19 rue Fantin-Latour | < 2000       | Tous         | Azeddine   | 
-| Samedi   | 14h / 17h     | 53 rue Erlanger                                             | tous niveaux | Jeunes       | Luc (MI), Thierry, Ahcene | 
-
+| Jour     | Horaire       | Lieu                                                        | Activité, niveau, public | 
+| -------- |:-------------:|:-----------------------------------------------------------:|:------------------------| 
+| Mardi    | 18h / 20h ou<br />18h / 21h     | 23 av. du Parc des Princes ou<br />96 bd Murat | cours, jeu, tous niveaux<br />enfants >12ans et adultes | 
+| Mercredi | 13h30 / 16h30 | 23 av. du Parc des Princes          | cours<br />scolaires <12ans       | 
+| Vendredi | > 18h         | 19 rue Fantin-Latour | cours, jeu, tous niveaux<br /> enfants >12ans et adultes             | 
+| Samedi   | 10h / 12h <br />1 sem. sur 2     | 23 av. du Parc des Princes ou<br />salle dans le 15eme (à confirmer) | cours<br />jeunes <18 ans et adultes |
+| Samedi   | 14h / 15h30<br />15h30 / 17h     | 53 rue Erlanger | cours découverte, perfectionnement, entrainements, matchs avec entraineur |
+| Dimanche | toute la journée | | compétitions interclubs jeunes et adultes |
 
 ### Tarifs
 
@@ -27,8 +28,8 @@ L’inscription inclut la licence fédérale, la participation aux rencontres pa
 
 Plusieurs formats d’inscription sont proposés :
 
-- l’inscription *"membre exclusif"* de **250€**,
-- l’inscription *"généreux donateur"* qui prend la forme d’un don supérieur à **563€ éligible à une réduction d’impôts de 66%**, soit **191€** après déduction fiscale[^1].
+- l’inscription *"membre exclusif"* de **290€**,
+- l’inscription *"généreux donateur"* qui prend la forme d’un don supérieur à **653€ éligible à une réduction d’impôts de 66%**, soit **222€** après déduction fiscale[^1].
 
 Par ailleurs, des réductions sont appliquées si plusieurs membres d’une même famille s’inscrivent au club. L’inscription doit alors se faire *directement* auprès du président du club.
 
