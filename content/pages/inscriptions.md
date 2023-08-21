@@ -10,7 +10,7 @@ description: Les principaux objectifs du JÉEN consistent à développer les éc
 
 Du *11 septembre 2023 au 28 juin 2024*, sauf pendant les congés scolaires.
 
-Les inscriptions se font en ligne sur le site [**Weezevent**](https://my.weezevent.com/inscription-apports-techniques-sur-place-2022-2023-paris-16e).
+Les inscriptions se font en ligne sur le site [**Weezevent**](https://bit.ly/3QUBPnA).
 
 
 | Jour     | Horaire       | Lieu                                                        | Activité, niveau, public | 
@@ -60,7 +60,7 @@ Le club offre la possibilité de suivre des cours en ligne.
 - Démarrage dans la semaine du 19 septembre 2022
 - 1 cours d'essai offert
 
-Les inscriptions se font en ligne sur le site [**Weezevent**](https://my.weezevent.com/inscription-apports-techniques-a-distance-2022-2023).
+Les inscriptions se font en ligne sur le site [**Weezevent**](https://bit.ly/3QUBPnA).
 
 
 | Jour     | Horaire         | Niveau                              | Professeur | 
