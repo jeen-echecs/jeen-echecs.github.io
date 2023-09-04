@@ -56,11 +56,11 @@ Le club offre la possibilité de suivre des cours en ligne.
 - 3 [entraîneurs professionnels]({static}/static/infos-cours-en-ligne.pdf)
 - 5 créneaux horaires proposés
 - 15 personnes maximum par cours
-- 30 séances d'1h30 étalées sur la saison sportive
+- 30 séances d'1h30 réparties sur la saison sportive
 - Démarrage dans la semaine du 19 septembre 2022
 - 1 cours d'essai offert
 
-Les inscriptions se font en ligne sur le site [**Weezevent**](https://bit.ly/3QUBPnA).
+Les inscriptions se font en ligne sur le site [**Weezevent**](https://my.weezevent.com/inscription-apports-techniques-a-distance-2023-2024).
 
 
 | Jour     | Horaire         | Niveau                              | Professeur | 
