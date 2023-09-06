@@ -1,5 +1,7 @@
-Title: Présentation du club
-Date: 2022-09-03
+title: Présentation du club
+date: 2022-09-03
+tags: présentation, club échecs, jeen, ffe
+description: Les principaux objectifs du JÉEN consistent à développer les échecs et à faire progresser tout joueur, quel que soit son niveau. Il s’adresse aussi bien aux joueurs "loisirs" qui cherchent à s’amuser sans pression, qu’aux joueurs désirant pratiquer la compétition. Le club rassemble plus de 130 licenciés qui se retrouvent de manière hebdomadaire lors des sessions de jeu ainsi que lors des différents tournois.
 
 Les principaux objectifs du JÉEN consistent à développer les échecs et à faire progresser tout joueur, quel que soit son niveau. Il s’adresse aussi bien aux joueurs "loisirs" qui cherchent à s’amuser sans pression, qu’aux joueurs désirant pratiquer la compétition. Le club rassemble plus de 130 licenciés qui se retrouvent de manière hebdomadaire lors des sessions de jeu ainsi que lors des différents tournois.
 
@@ -9,7 +11,7 @@ Il n'est pas nécessaire de s'inscrire pour découvrir le club : venez simplemen
 
 Toutes nos salles de jeu sont situées aux alentours de la porte de Saint Cloud. Nous nous retrouvons du mardi au samedi, sur des créneaux organisés par niveau ou par âge.
 
-Tous les horaires et lieux de rendez-vous sont consultables sur [**la page d’inscription**]({filename}/pages/inscriptions.md) ainsi que sur [**la fiche d’information 2022-2023**]({static}/static/fiche-information.pdf).
+Tous les horaires et lieux de rendez-vous sont consultables sur [**la page d’inscription**]({filename}/pages/inscriptions.md) ainsi que sur [**la fiche d’information**]({static}/static/fiche-information.pdf).
 
 ## Les jeunes
 
