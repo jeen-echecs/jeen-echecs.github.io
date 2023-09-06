@@ -1,7 +1,6 @@
 Title: Calendrier Interclubs 2022-2023
 Date: 2022-09-18
 Menulabel: Interclubs
-tags: ffe, tournoi, club échecs, paris
 tags: interclubs échecs, compétition échecs, calendrier
 status: hidden
 
