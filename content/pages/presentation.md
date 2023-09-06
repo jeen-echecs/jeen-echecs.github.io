@@ -5,7 +5,9 @@ description: Les principaux objectifs du JÉEN consistent à développer les éc
 
 Les principaux objectifs du JÉEN consistent à développer les échecs et à faire progresser tout joueur, quel que soit son niveau. Il s’adresse aussi bien aux joueurs "loisirs" qui cherchent à s’amuser sans pression, qu’aux joueurs désirant pratiquer la compétition. Le club rassemble plus de 130 licenciés qui se retrouvent de manière hebdomadaire lors des sessions de jeu ainsi que lors des différents tournois.
 
-Il n'est pas nécessaire de s'inscrire pour découvrir le club : venez simplement aux horaires d'ouverture. Pour toute information complémentaire, n'hésitez pas à nous contacter par [email](mailto:jeen.echecs@gmail.com) ou par téléphone au 06 09 60 63 29.
+Il n'est pas nécessaire de s'inscrire pour découvrir le club : venez simplement aux horaires d'ouverture.
+
+Pour toute information complémentaire, n'hésitez pas à nous contacter par [email](mailto:jeen.echecs@gmail.com) ou par téléphone au 06 09 60 63 29.
 
 ## Où et quand jouons-nous ?
 

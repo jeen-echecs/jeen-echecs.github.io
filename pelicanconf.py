@@ -72,6 +72,13 @@ BANNER = 'images/banner.jpg'
 BANNER_ALL_PAGES = True
 
 DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = False
+MENUITEMS = (
+    ('Présentation', '/pages/presentation-du-club.html'),
+    ('Inscriptions', '/pages/inscriptions.html'),
+    ('Histoire et Palmarès', '/pages/histoire-et-palmares.html'),
+)
+
 
 # Twitter timeline in sidebar
 # TWITTER_USERNAME = "JEEN_Echecs"
