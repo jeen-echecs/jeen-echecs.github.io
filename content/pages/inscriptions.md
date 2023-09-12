@@ -52,28 +52,31 @@ Les moyens de paiement acceptés sont :
 
 Le club offre la possibilité de suivre des cours en ligne.
 
-- 4 niveaux, du perfectionnement à la maîtrise
+- 3 niveaux, du perfectionnement à la maîtrise
 - 3 [entraîneurs professionnels]({static}/static/infos-cours-en-ligne.pdf)
 - 5 créneaux horaires proposés
 - 15 personnes maximum par cours
 - 30 séances d'1h30 réparties sur la saison sportive
-- Démarrage dans la semaine du 19 septembre 2022
+- Démarrage dans la semaine du 11 septembre 2023
 - 1 cours d'essai offert
+- les cours sont organisés en collaboration avec les clubs d’Agen, La Farlède-Toulon, Précy-sur-Oise, Val Parisis-Franconville
 
 Les inscriptions se font en ligne sur le site [**Weezevent**](https://my.weezevent.com/inscription-apports-techniques-a-distance-2023-2024).
 
 
 | Jour     | Horaire         | Niveau                              | Professeur | 
 | -------- |:---------------:|:-----------------------------------:|:----------:| 
-| Mardi    | 20h30 / 22h     | Débutants (< 1400)                  | Bertrand (maitre FIDE)   | 
-| Mardi    | 20h30 / 22h     | Elite (> 1800)                      | Manuel (Grand Maitre)    | 
-| Mercredi | 19h / 20h30     | Perfectionnement (1400 - 1800)      | Nikolaÿ (formateur FIDE) | 
-| Mercredi | 21h / 22h30     | Débutants (< 1400)                  | Nikolaÿ (formateur FIDE) | 
-| Jeudi    | 20h30 / 22h     | Compétition (1600 - 2000)           | Manuel (Grand Maitre)    | 
+| Lundi    | 20h30 / 22h     | Perfectionnement (1200 - 1400)      | Yacine Boukhris-Ferré              | 
+| Mardi    | 20h30 / 22h     | Elite (> 1800)                      | Manuel Apicella (Grand Maitre)     | 
+| Mercredi | 19h / 20h30     | Compétition (1600 - 2000)           | Nikolaÿ Yordanov (formateur FIDE)  | 
+| Mercredi | 21h / 22h30     | Perfectionnement (1200 - 1400)      | Nikolaÿ Yordanov(formateur FIDE)   | 
+| Jeudi    | 20h30 / 22h     | Compétition (1600 - 2000)           | Manuel Apicella(Grand Maitre)      | 
 
 <br />
 Si vous voulez en savoir plus sur nos entraineurs, n’hésitez pas à lire [**la fiche d’information détaillée.**]({static}/static/infos-cours-en-ligne.pdf).
 
+- Lors de l'inscription, communiquer son pseudo Skype, son profil Lichess & le créneau choisi
+- Informations & inscriptions : jeenparis.echecs@gmail.com
 
 ### Tarifs
 
