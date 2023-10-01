@@ -15,12 +15,11 @@ Les inscriptions se font en ligne sur le site [**Weezevent**](https://bit.ly/3QU
 
 | Jour     | Horaire       | Lieu                                                        | Activité, niveau, public | 
 | -------- |:-------------:|:-----------------------------------------------------------:|:------------------------| 
-| Mardi    | 18h / 20h ou<br />18h / 21h     | 23 av. du Parc des Princes ou<br />96 bd Murat | cours, jeu, tous niveaux<br />enfants >12ans et adultes | 
-| Mercredi | 13h30 / 16h30 | 23 av. du Parc des Princes          | cours<br />scolaires <12ans       | 
-| Vendredi | > 18h         | 19 rue Fantin-Latour | cours, jeu, tous niveaux<br /> enfants >12ans et adultes             | 
-| Samedi   | 10h / 12h <br />1 sem. sur 2     | 23 av. du Parc des Princes ou<br />salle dans le 15eme (à confirmer) | cours<br />jeunes <18 ans et adultes |
-| Samedi   | 14h / 15h30<br />15h30 / 17h     | 53 rue Erlanger | cours découverte, perfectionnement, entrainements, matchs avec entraineur |
-| Dimanche | toute la journée | | compétitions interclubs jeunes et adultes |
+| Mardi    | 18h / 21h     | 23 av. du Parc des Princes                                  | cours, jeu, tous niveaux<br />enfants >12ans et adultes | 
+| Mercredi | 13h30 / 16h30 | 23 av. du Parc des Princes                                  | cours<br />scolaires <12ans       | 
+| Vendredi | 18h / 21h     | 23 av. du Parc des Princes                                  | cours, jeu, tous niveaux<br />enfants >12ans et adultes | 
+| Samedi   | à partir de 14h | 53 rue Erlanger | cours découverte, perfectionnement, entrainements, matchs avec entraineur |
+| Dimanche | une ou deux fois par mois | | compétitions en équipe (interclubs et critériums jeunes, interclubs et critériums adultes) |
 
 ### Tarifs
 
