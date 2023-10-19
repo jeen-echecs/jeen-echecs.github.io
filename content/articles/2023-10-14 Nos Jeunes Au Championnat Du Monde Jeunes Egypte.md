@@ -6,8 +6,8 @@ Description: Les 2 frères El-Zein représentent le Liban et le JEEN aux champio
 
 Les 2 frères El-Zein représentent le Liban et le JEEN aux championnats du monde jeunes en Egypte. Vous pouvez suivre leurs résultats ici :
 
-- Zayne-Eddine El-Zein (1885) en U12 - https://chess-results.com/tnr832520.aspx?lan=1&art=9&fed=LBN&flag=30&snr=27
-- Bassam El-Zein (1564) en U10 - https://chess-results.com/tnr832518.aspx?lan=1&art=9&fed=LBN&flag=30&snr=31
+- [Zayne-Eddine El-Zein (1885) en U12](https://chess-results.com/tnr832520.aspx?lan=1&art=9&fed=LBN&flag=30&snr=27)
+- [Bassam El-Zein (1564) en U10](https://chess-results.com/tnr832518.aspx?lan=1&art=9&fed=LBN&flag=30&snr=31)
 
 Tout le staff et les joueurs du JEEN les soutiennent.
 
