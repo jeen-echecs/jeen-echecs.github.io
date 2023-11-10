@@ -12,8 +12,6 @@ jobs:
     
     steps:
       - uses: actions/checkout@v4
-      - run: |
-          git pull origin gh-pages
       
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -33,8 +31,7 @@ jobs:
       - name: Deploy to GitHub Pages
         run: |
           ghp-import -m "Generate Pelican site" -b "gh-pages" output
-          git push origin gh-pages
+          git push -f origin gh-pages
           echo 'Successfull deployment'
-
 
 
