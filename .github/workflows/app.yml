@@ -28,11 +28,11 @@ jobs:
           echo "Building Pelican website"
           pelican content -o output -s publishconf.py
 
-      - name: Commit to gh-pages
+      - name: Deploy to GitHub Pages
         run: |
-          ghp-import -m "Generate Pelican site" -b gh-pages output
-	        git push origin gh-pages
-          echo 'Successfull deployment '
+          ghp-import -m "Generate Pelican site" -b "gh-pages" output
+          git push origin gh-pages
+          echo 'Successfull deployment'
 
 
 
