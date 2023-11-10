@@ -1,7 +1,10 @@
 name : Build and Deploy website
 
 on:
-  workflow_dispatch:
+  # Trigger the workflow on push on main branch,
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
