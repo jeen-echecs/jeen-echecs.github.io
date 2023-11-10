@@ -33,6 +33,8 @@ jobs:
 
       - name: Deploy to GitHub Pages
         run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           ghp-import -m "Generate Pelican site" -b "gh-pages" output
           git push -f origin gh-pages
           echo 'Successfull deployment'
