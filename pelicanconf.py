@@ -44,6 +44,7 @@ LINKS = (
          ('Paris Echecs', 'https://echecs.paris/index.php'),
          ('Ligue Ile de France', 'https://idf-echecs.com/pages/'),
          ('FFE', 'http://www.echecs.asso.fr/'),
+	 ('Lichess', 'https://lichess.org/'),
         )
 
 # Social widget
