@@ -47,6 +47,14 @@ LINKS = (
 	 ('Lichess', 'https://lichess.org/'),
         )
 
+# Sidebar Images
+SIDEBAR_IMAGES_HEADER = 'Partenaires'
+SIDEBAR_IMAGES = (
+    ('/static/ffe_logo.jpg'),
+    ('/static/ans_logo_rvb_x2.jpg'),
+    ('/static/ville_de_paris_logo.png'),
+)
+
 # Social widget
 # SOCIAL = (('Twitter', 'https://twitter.com/JEEN_Echecs'),
 #         )
