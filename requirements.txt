@@ -13,7 +13,7 @@ MarkupSafe==2.1.1
 mdurl==0.1.2
 ordered-set==4.1.0
 pelican==4.9.1
-pelican-photos==1.5.0
+pelican-photos==1.6.0
 pelican-seo==1.2.2
 pelican-sitemap==1.0.2
 piexif==1.1.3
