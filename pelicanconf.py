@@ -52,9 +52,9 @@ LINKS = (
 # Sidebar Images
 SIDEBAR_IMAGES_HEADER = 'Partenaires'
 SIDEBAR_IMAGES = (
-    ('/static/ffe_logo.jpg'),
-    ('/static/ans_logo_rvb_x2.jpg'),
-    ('/static/ville_de_paris_logo.png'),
+    ('/static/ffe_logo.jpg', 'http://www.echecs.asso.fr/'),
+    ('/static/ans_logo_rvb_x2.jpg', 'https://www.agencedusport.fr/'),
+    ('/static/ville_de_paris_logo.png', 'https://www.paris.fr/'),
 )
 
 # Social widget
