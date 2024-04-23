@@ -2,10 +2,6 @@ body {
     padding-top: 70px;
 }
 
-tr {
-    border-bottom:1px solid black;
-}
-
 #sidebar .list-group, #sidebar .list-group-item {
     background-color: transparent;
 }
@@ -201,10 +197,10 @@ figure.floatcenter, .align-center {
     font-family: "HelveticaNeue-CondensedBold","Helvetica Neue CE 600 Condensed","Helvetica Neue LT Condensed","Helvetica Neue 600 Condensed","HelveticaNeue-BoldCondensed","Helvetica Neue BoldCondensed","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 60px;
     font-stretch: condensed;
-    font-weight: 500;
+    font-weight: 700;
     line-height: 0.9;
     margin: 0;
-    /* text-transform: uppercase;*/ 
+    text-transform: uppercase;
 }
 #banner .intro {
     color: #fff;

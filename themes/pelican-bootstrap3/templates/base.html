@@ -66,8 +66,6 @@
     {% endif %}
     <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/font-awesome.min.css" rel="stylesheet">
 
-    <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/fotorama.css" rel="stylesheet">
-
     <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/pygments/{{ PYGMENTS_STYLE|default('native') }}.css" rel="stylesheet">
     {% if 'tipue_search' in PLUGINS %}
     <link href="{{ SITEURL}}/{{ THEME_STATIC_DIR }}/tipuesearch/tipuesearch.css" rel="stylesheet">
@@ -118,9 +116,9 @@
     <!-- >>>> Start >>>>> PHOTO plugin: lightbox style in base.html >>>>>>>>> -->
     <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/magnific-popup.css" type="text/css">
     <!-- <<<< End <<<<< PHOTO plugin: lightbox style <<<<<<<<< -->
-    
+
     {% include 'includes/ga.html' %}
-    
+
 </head>
 <body>
 
@@ -230,8 +228,6 @@
 
 <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
 <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/respond.min.js"></script>
-
-<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/fotorama.js"></script>
 
 {% if CUSTOM_JS %}
     <script src="{{ SITEURL }}/{{ CUSTOM_JS }}"></script>
