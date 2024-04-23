@@ -1,11 +1,11 @@
 
 
-a {
+.summary a {
     color: inherit;
     border-bottom: 1px dotted;
 }
 
-a:hover {
+.summary a:hover {
     text-decoration: none;
     border-bottom: 1px solid;
 }
@@ -20,4 +20,8 @@ a:hover {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 5px;
+}
+
+tr {
+    border-bottom:1px solid black;
 }
