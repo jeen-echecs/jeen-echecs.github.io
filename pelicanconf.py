@@ -19,9 +19,11 @@ JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
 
-STATIC_PATHS = ['images', 'static', 'extra/CNAME', 'extra/.nojekyll']
+STATIC_PATHS = ['images', 'static', 'extra/CNAME', 'extra/.nojekyll', 'extra']
 EXTRA_PATH_METADATA = { 'extra/CNAME': {'path': 'CNAME'},
                         'extra/.nojekyll': {'path': '.nojekyll'},
+                        'extra/custom.css': {'path': 'static/css/custom.css'},
+                        'extra/custom.js': {'path': 'static/css/custom.js'},
                       }
 
 DEFAULT_PAGINATION = 5
@@ -105,3 +107,9 @@ PHOTO_DEFAULT_IMAGE_OPTIONS = {
 		"optimize": True
 	}
 }
+
+# Theme customization
+CUSTOM_CSS = 'static/css/custom.css'
+CUSTOM_JS = 'static/js/custom.js'
+
+
