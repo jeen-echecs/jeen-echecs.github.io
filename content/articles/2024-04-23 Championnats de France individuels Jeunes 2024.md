@@ -28,6 +28,6 @@ Bravo à l'entraîneur, Luc, qui les a constamment aidés à analyser, à prépa
 Bravo pour cette belle performance collective, toujours dans une très bonne ambiance, avec un esprit d'équipe extraordinaire, inégalé !  
 Semaine ô combien riche en émotions pour tous, enfants, entraîneur et parents qui garderont tout cela gravé dans leurs mémoires !  
 
-![Championnats de France Jeunes Échecs Bassam El Zein]({static}/images/2024-04-23_bassam.jpg){class="floatcenter" width="500"}
-![Championnats de France Jeunes Échecs groupe]({static}/images/2024-04-23_groupe.jpg){class="floatcenter" width="500"}
-![Championnats de France Jeunes Échecs mamans]({static}/images/2024-04-23_mamans.jpg){class="floatcenter" width="500"}
+![Championnats de France Jeunes Échecs Bassam El Zein]({static}/images/2024-04-23_bassam.jpg){class="floatcenter"}
+![Championnats de France Jeunes Échecs groupe]({static}/images/2024-04-23_groupe.jpg){class="floatcenter"}
+![Championnats de France Jeunes Échecs mamans]({static}/images/2024-04-23_mamans.jpg){class="floatcenter"}
