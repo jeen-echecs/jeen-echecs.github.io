@@ -1,6 +1,6 @@
 title: Inscriptions
-date: 2023-08-06
-tags: club échecs, paris
+date: 2024-08-30
+tags: inscription, club échecs, paris
 description: Les principaux objectifs du JÉEN consistent à développer les échecs et à faire progresser tout joueur, quel que soit son niveau. Il s’adresse aussi bien aux joueurs "loisirs" qui cherchent à s’amuser sans pression, qu’aux joueurs désirant pratiquer la compétition. Le club rassemble plus de 130 licenciés qui se retrouvent de manière hebdomadaire lors des sessions de jeu ainsi que lors des différents tournois.
  
 
@@ -8,9 +8,9 @@ description: Les principaux objectifs du JÉEN consistent à développer les éc
 
 ### Informations
 
-Du *11 septembre 2023 au 28 juin 2024*, sauf pendant les congés scolaires.
+Du *9 septembre 2024 au 27 juin 2025*, sauf pendant les congés scolaires.
 
-Les inscriptions se font en ligne sur le site [**Weezevent**](https://bit.ly/3QUBPnA).
+Les inscriptions se font en ligne sur le site [**https://www.helloasso.com/associations/le-jeen/adhesions/inscription-au-jeen**](https://www.helloasso.com/associations/le-jeen/adhesions/inscription-au-jeen).
 
 
 | Jour     | Horaire       | Lieu                                                        | Activité, niveau, public | 
@@ -18,8 +18,8 @@ Les inscriptions se font en ligne sur le site [**Weezevent**](https://bit.ly/3QU
 | Mardi    | 18h / 21h     | 23 av. du Parc des Princes                                  | cours, jeu, tous niveaux<br />enfants >12ans et adultes | 
 | Mercredi | 13h30 / 16h30 | 23 av. du Parc des Princes                                  | cours<br />scolaires <12ans       | 
 | Vendredi | 18h / 21h     | 23 av. du Parc des Princes                                  | cours, jeu, tous niveaux<br />enfants >12ans et adultes | 
-| Samedi   | à partir de 14h | 53 rue Erlanger | cours découverte, perfectionnement, entrainements, matchs avec entraineur |
-| Dimanche | une ou deux fois par mois | | compétitions en équipe (interclubs et critériums jeunes, interclubs et critériums adultes) |
+| Samedi   | 14h / 17h     | 53 rue Erlanger | cours tous niveaux avec 4 professeurs selon les âges et les affinités |
+| Dimanche | une ou deux fois par mois | | compétitions interclubs Jeunes et adultes |
 
 ### Tarifs
 
@@ -49,27 +49,24 @@ Les moyens de paiement acceptés sont :
 
 ### Informations
 
-Le club offre la possibilité de suivre des cours en ligne.
+Le club offre la possibilité de suivre des cours en ligne à partir de la semaine du 9 septembre.
 
 - 3 niveaux, du perfectionnement à la maîtrise
 - 3 [entraîneurs professionnels]({static}/static/infos-cours-en-ligne.pdf)
-- 5 créneaux horaires proposés
+- 4 créneaux horaires proposés
 - 15 personnes maximum par cours
 - 30 séances d'1h30 réparties sur la saison sportive
-- Démarrage dans la semaine du 11 septembre 2023
-- 1 cours d'essai offert
 - les cours sont organisés en collaboration avec les clubs d’Agen, La Farlède-Toulon, Précy-sur-Oise, Val Parisis-Franconville
 
-Les inscriptions se font en ligne sur le site [**Weezevent**](https://my.weezevent.com/inscription-apports-techniques-a-distance-2023-2024).
+Les inscriptions se font en ligne sur le site [**https://www.helloasso.com/associations/le-jeen/adhesions/inscription-au-jeen**](https://www.helloasso.com/associations/le-jeen/adhesions/inscription-au-jeen).
 
 
 | Jour     | Horaire         | Niveau                              | Professeur | 
 | -------- |:---------------:|:-----------------------------------:|:----------:| 
-| Lundi    | 20h30 / 22h     | Perfectionnement (1200 - 1400)      | Yacine Boukhris-Ferré              | 
-| Mardi    | 20h30 / 22h     | Elite (> 1800)                      | Manuel Apicella (Grand Maitre)     | 
-| Mercredi | 19h / 20h30     | Compétition (1600 - 2000)           | Nikolaÿ Yordanov (formateur FIDE)  | 
-| Mercredi | 21h / 22h30     | Perfectionnement (1200 - 1400)      | Nikolaÿ Yordanov(formateur FIDE)   | 
-| Jeudi    | 20h30 / 22h     | Compétition (1600 - 2000)           | Manuel Apicella(Grand Maitre)      | 
+| Lundi    | 20h30 / 22h     | Perfectionnement - objectif 1500    | Yacine Boukhris-Ferré             | 
+| Mercredi | 21h / 22h30     | Compétition - (1500 - 1800)         | Nikolaÿ Yordanov (formateur FIDE) | 
+| Jeudi    | 19h / 20h30     | Élite (1700 - 2000)                 | Manuel Apicella (GMI)      | 
+| Jeudi    | 20h30 / 22h     | Master (1900 - 2200)                | Manuel Apicella (GMI)      | 
 
 <br />
 Si vous voulez en savoir plus sur nos entraineurs, n’hésitez pas à lire [**la fiche d’information détaillée.**]({static}/static/infos-cours-en-ligne.pdf).
@@ -81,18 +78,6 @@ Si vous voulez en savoir plus sur nos entraineurs, n’hésitez pas à lire [**l
 
 L’inscription inclut la licence fédérale B et l’accès à la formation de **30 séances de 1h30**.
 
-Plusieurs formats d’inscription sont proposés :
-
-- l’inscription *"membre exclusif"* de **160€**,
-- l’inscription *"généreux donateur"* qui prend la forme d’un don supérieur à **360€ éligible à une réduction d’impôts de 66%**, soit **122€** après déduction fiscale[^1].
-
-Les moyens de paiement acceptés sont :
-
-- carte bancaire pour le paiement en ligne,
-- chèque,
-- chèque-vacances,
-- [Pass’Sport](https://www.education.gouv.fr/le-pass-sport-323333),
-- [Réduc’Sport](https://paris.franceolympique.com/R%C3%A9duc_Sport/).
-
+L’inscription est au tarif unique de **160€** pour chaque session.
 
 [^1]: *Le JÉEN est une association agréée d’intérêt général et est donc habilitée à délivrer des attestations de dons*.
