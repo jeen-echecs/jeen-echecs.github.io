@@ -31,14 +31,14 @@ mercredi 7 :    10h - 12h, 17h - 19h
 jeudi 8 :       10h - 12h, 17h - 19h  
 vendredi 9 :    10h - 12h, 17h - 21h  
 jeudi 29 :      10h - 12h, 17h - 22h  
-vendredi 30 :   10h - 12h, 17h - 21h  
-samedi 31 :     10h - 12h, 15h - 17h  
+vendredi 30 :   10h - 12h, 18h - 21h  
+samedi 31 :     10h - 12h, 14h - 17h  
 
 En septembre
 
-dimanche 1er :  10h- 11h 30, 14h - 21h  
-mardi 3 :       10h - 12h , 17h - 21h  
-mercredi 4 :    10h - 12h , 18h - 21h  
-jeudi 5 :       10h - 12h , 18h - 21h  
-vendredi 6 :    10h - 12h , 18h - 21h  
+dimanche 1er :  10h - 12h, 14h - 21h  
+mardi 3 :       10h - 12h, 17h - 21h  
+mercredi 4 :    10h - 12h, 18h - 21h  
+jeudi 5 :       10h - 12h, 18h - 21h  
+vendredi 6 :    10h - 12h, 18h - 21h  
 
