@@ -51,11 +51,11 @@ Les moyens de paiement acceptés sont :
 
 Le club offre la possibilité de suivre des cours en ligne à partir de la semaine du 9 septembre.
 
-- 3 niveaux, du perfectionnement à la maîtrise
+- 4 niveaux, du perfectionnement à la maîtrise
 - 3 [entraîneurs professionnels]({static}/static/infos-cours-en-ligne.pdf)
 - 4 créneaux horaires proposés
 - 15 personnes maximum par cours
-- 30 séances d'1h30 réparties sur la saison sportive
+- 30 séances sur la saison sportive
 - les cours sont organisés en collaboration avec les clubs d’Agen, La Farlède-Toulon, Précy-sur-Oise, Val Parisis-Franconville
 
 Les inscriptions se font en ligne sur le site [**https://www.helloasso.com/associations/le-jeen/adhesions/inscription-au-jeen**](https://www.helloasso.com/associations/le-jeen/adhesions/inscription-au-jeen).
@@ -63,10 +63,10 @@ Les inscriptions se font en ligne sur le site [**https://www.helloasso.com/assoc
 
 | Jour     | Horaire         | Niveau                              | Professeur | 
 | -------- |:---------------:|:-----------------------------------:|:----------:| 
-| Lundi    | 20h30 / 22h     | Perfectionnement - objectif 1500    | Yacine Boukhris-Ferré             | 
-| Mercredi | 21h / 22h30     | Compétition - (1500 - 1800)         | Nikolaÿ Yordanov (formateur FIDE) | 
-| Jeudi    | 19h / 20h30     | Élite (1700 - 2000)                 | Manuel Apicella (GMI)      | 
-| Jeudi    | 20h30 / 22h     | Master (1900 - 2200)                | Manuel Apicella (GMI)      | 
+| Lundi    | à 20h30      | Perfectionnement - objectif 1500    | Yacine Boukhris-Ferré             | 
+| Mercredi | à 21h        | Compétition - (1500 - 1800)         | Nikolaÿ Yordanov (formateur FIDE) | 
+| Jeudi    | à 19h        | Élite (1700 - 2000)                 | Manuel Apicella (GMI)      | 
+| Jeudi    | à 20h30      | Master (1900 - 2200)                | Manuel Apicella (GMI)      | 
 
 <br />
 Si vous voulez en savoir plus sur nos entraineurs, n’hésitez pas à lire [**la fiche d’information détaillée.**]({static}/static/infos-cours-en-ligne.pdf).
