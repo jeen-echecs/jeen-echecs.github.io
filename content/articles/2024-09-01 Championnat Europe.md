@@ -18,3 +18,5 @@ Finalement, Paul et Théo se classent 24e ex aequo sur 142 joueurs, avec 4.5/9. 
 Bassam se classe 66e sur 114 joueurs, avec 4/9.
 
 Prochaine étape : les championnats du Monde au Brésil, à partir du 28 octobre...
+
+![Photo championnat eurepe échecs 2024]({static}/images/2024-09-01_championnat_europe.jpg){class="floatcenter" width="500"}
