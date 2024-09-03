@@ -38,7 +38,7 @@ En septembre
 
 dimanche 1er :  10h - 12h, 14h - 21h  
 mardi 3 :       10h - 12h, 16h - 20h  
-mercredi 4 :    10h - 12h, 16h - 20h  
-jeudi 5 :       10h - 12h, 16h - 20h  
-vendredi 6 :    10h - 12h, 16h - 20h  
+mercredi 4 :    16h - 20h  
+jeudi 5 :       16h - 20h  
+vendredi 6 :    16h - 20h  
 
