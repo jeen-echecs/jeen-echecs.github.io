@@ -3,6 +3,14 @@ SITENAME = 'Le club du JÉEN'
 SITEURL = '.'
 
 PATH = 'content'
+ARTICLE_PATHS = ['articles']
+PAGE_PATHS = ['pages']
+STATIC_PATHS = ['images', 'static', 'extra', 'puzzles']
+EXTRA_PATH_METADATA = { 'extra/CNAME': {'path': 'CNAME'},
+                        'extra/.nojekyll': {'path': '.nojekyll'},
+                        'extra/custom.css': {'path': 'static/css/custom.css'},
+                        'extra/custom.js': {'path': 'static/css/custom.js'},
+                      }
 
 # Theme
 THEME = 'themes/pelican-bootstrap3'
@@ -19,12 +27,6 @@ JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
 
-STATIC_PATHS = ['images', 'static', 'extra/CNAME', 'extra/.nojekyll', 'extra']
-EXTRA_PATH_METADATA = { 'extra/CNAME': {'path': 'CNAME'},
-                        'extra/.nojekyll': {'path': '.nojekyll'},
-                        'extra/custom.css': {'path': 'static/css/custom.css'},
-                        'extra/custom.js': {'path': 'static/css/custom.js'},
-                      }
 
 DEFAULT_PAGINATION = 5
 
@@ -89,6 +91,7 @@ MENUITEMS = (
     ('Présentation', '/pages/presentation-du-club.html'),
     ('Inscriptions', '/pages/inscriptions.html'),
     ('Histoire et Palmarès', '/pages/histoire-et-palmares.html'),
+    ('Puzzles', '/puzzles/'),
 )
 
 
