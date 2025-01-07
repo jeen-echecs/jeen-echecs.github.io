@@ -2,9 +2,9 @@ Title: Phase 2 du Top Jeunes
 Date: 2025-01-06
 Category: Actualités
 tags: top jeunes, jeen, compétition, échecs
-Description: La 2e phase du Top Jeunes, qui s’est déroulée du vendredi 3 au dimanche 5 janvier, a confirmé la domination de l'équipe du JÉEN ! Notre équipe a réalisé un parcours sans faute : après avoir remporté nos 3 premiers matchs lors de la 1re phase, début décembre, elle enchaîne avec 4 victoires supplémentaires lors de cette 2e phase ! La ronde 6 a marqué le moment le plus fort du match puisque les 2 équipes jusqu'alors invaincues, celles de Saint-Maur et du JÉEN, se rencontraient ! Finalement, après quelques émotions, l'équipe du JÉEN s'impose 8 à 5, prenant ainsi la tête du classement de sa poule.
+Description: La 2e phase du Top Jeunes, qui s’est déroulée du vendredi 3 au dimanche 5 janvier, a confirmé l’excellente forme de l'équipe du JÉEN ! Notre équipe a réalisé un parcours sans faute : après avoir remporté nos 3 premiers matchs lors de la 1re phase, début décembre, elle enchaîne avec 4 victoires supplémentaires lors de cette 2e phase ! La ronde 6 a marqué le moment le plus fort du match puisque les 2 équipes jusqu'alors invaincues, celles de Saint-Maur et du JÉEN, se rencontraient ! Finalement, après quelques émotions, l'équipe du JÉEN s'impose 8 à 5, prenant ainsi la tête du classement de sa poule.
 
-La 2ème phase du Top Jeunes, qui s’est déroulée du vendredi 3 au dimanche 5 janvier, a confirmé l’excellent forme de l'équipe du JÉEN !
+La 2ème phase du Top Jeunes, qui s’est déroulée du vendredi 3 au dimanche 5 janvier, a confirmé l’excellente forme de l'équipe du JÉEN !
 
 ![Equipe JEEN du Top Jeunes 2025]({static}/images/2025-01-06_top_jeunes1.jpg){class="floatcenter" width="500"}
 
