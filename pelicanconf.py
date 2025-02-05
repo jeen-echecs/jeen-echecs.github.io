@@ -1,4 +1,4 @@
-AUTHOR = 'msa'
+AUTHOR = 'Club d’échecs du JEEN, 23-27 avenue du Parc des Princes, Paris 16'
 SITENAME = 'Le club du JÉEN'
 SITEURL = '.'
 
