@@ -25,3 +25,11 @@
 tr {
     border-bottom:1px solid black;
 }
+
+th {
+    padding: 0 5px;
+}
+
+td {
+    padding: 5px 0;
+}
