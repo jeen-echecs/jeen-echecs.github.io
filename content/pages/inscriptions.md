@@ -1,5 +1,5 @@
 title: Inscriptions
-date: 2024-08-30
+date: 2025-07-03
 tags: inscription, club échecs, paris
 description: Les principaux objectifs du JÉEN consistent à développer les échecs et à faire progresser tout joueur, quel que soit son niveau. Il s’adresse aussi bien aux joueurs "loisirs" qui cherchent à s’amuser sans pression, qu’aux joueurs désirant pratiquer la compétition. Le club rassemble plus de 130 licenciés qui se retrouvent de manière hebdomadaire lors des sessions de jeu ainsi que lors des différents tournois.
  
@@ -8,9 +8,9 @@ description: Les principaux objectifs du JÉEN consistent à développer les éc
 
 ### Informations
 
-Du *9 septembre 2024 au 27 juin 2025*, sauf pendant les congés scolaires.
+Du *11 septembre 2025 au 26 juin 2026*, sauf pendant les congés scolaires.
 
-Les inscriptions se font en ligne sur le site [**https://www.helloasso.com/associations/le-jeen/adhesions/inscription-au-jeen**](https://www.helloasso.com/associations/le-jeen/adhesions/inscription-au-jeen).
+Les inscriptions se font en ligne sur le site [**https://www.helloasso.com/associations/le-jeen/adhesions/inscription-au-jeen-1**](https://www.helloasso.com/associations/le-jeen/adhesions/inscription-au-jeen-1).
 
 
 | Jour     | Horaire       | Lieu                                                        | Activité, niveau, public | 
@@ -27,8 +27,8 @@ L’inscription inclut la licence fédérale, la participation aux rencontres pa
 
 Plusieurs formats d’inscription sont proposés :
 
-- l’inscription *"membre exclusif"* de **290€**,
-- l’inscription *"généreux donateur"* qui prend la forme d’un don supérieur à **653€ éligible à une réduction d’impôts de 66%**, soit **222€** après déduction fiscale[^1].
+- l’inscription *"membre exclusif"* de **320€**,
+- l’inscription *"généreux donateur"* qui prend la forme d’un don supérieur à **720€ éligible à une réduction d’impôts de 66%**, soit **245** après déduction fiscale[^1].
 
 Par ailleurs, des réductions sont appliquées si plusieurs membres d’une même famille s’inscrivent au club. L’inscription doit alors se faire *directement* auprès du président du club.
 
@@ -58,11 +58,11 @@ Le club offre la possibilité de suivre des cours en ligne à partir de la semai
 - 30 séances sur la saison sportive
 - les cours sont organisés en collaboration avec les clubs d’Agen, La Farlède-Toulon, Précy-sur-Oise, Val Parisis-Franconville
 
-Les inscriptions se font en ligne sur le site [**https://www.helloasso.com/associations/le-jeen/adhesions/inscription-au-jeen**](https://www.helloasso.com/associations/le-jeen/adhesions/inscription-au-jeen).
+Les inscriptions se font en ligne sur le site [**https://www.helloasso.com/associations/le-jeen/adhesions/inscription-au-jeen-1**](https://www.helloasso.com/associations/le-jeen/adhesions/inscription-au-jeen-1).
 
 
-| Jour     | Horaire         | Niveau                              | Professeur | 
-| -------- |:---------------:|:-----------------------------------:|:----------:| 
+| Jour     | Horaire      | Niveau                              | Professeur | 
+| -------- |:------------:|:-----------------------------------:|:----------:| 
 | Lundi    | à 20h30      | Perfectionnement - objectif 1500    | Yacine Boukhris-Ferré             | 
 | Mercredi | à 21h        | Compétition - (1500 - 1800)         | Nikolaÿ Yordanov (formateur FIDE) | 
 | Jeudi    | à 19h        | Élite (1700 - 2000)                 | Manuel Apicella (GMI)      | 
