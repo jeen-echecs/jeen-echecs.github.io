@@ -18,8 +18,8 @@ Les inscriptions se font en ligne sur le site [**https://www.helloasso.com/assoc
 | Mardi    | 18h / 21h     | 23 av. du Parc des Princes                                  | cours, jeu, tous niveaux<br />enfants >12ans et adultes | 
 | Mercredi | 13h30 / 16h30 | 23 av. du Parc des Princes                                  | cours<br />scolaires <12ans       | 
 | Vendredi | 18h / 21h     | 23 av. du Parc des Princes                                  | cours, jeu, tous niveaux<br />enfants >12ans et adultes | 
-| Samedi   | 14h / 17h     | 53 rue Erlanger | cours tous niveaux avec 4 professeurs selon les âges et les affinités |
-| Dimanche | une ou deux fois par mois | | compétitions interclubs Jeunes et adultes |
+| Samedi   | 14h / 17h     | 53 rue Erlanger                                             | cours Jeunes : 5 professeurs selon niveaux, âges, affinités |
+| Dimanche | une ou deux fois par mois |                                                 | compétitions : équipes Critériums et Interclubs, jeunes et adultes |
 
 ### Tarifs
 

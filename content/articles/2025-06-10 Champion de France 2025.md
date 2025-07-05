@@ -25,5 +25,7 @@ Ce succès est le fruit d’un formidable travail collectif et d’une passion p
 
 Classements et résultats : [Poule Haute](http://echecs.asso.fr/Equipes.aspx?Groupe=521) | [Poule Basse](http://echecs.asso.fr/Equipes.aspx?Groupe=522)
 
+[Le J.E.E.N. remporte le Top Jeunes 2025 ! ](https://echecs.asso.fr/Actu.aspx?Ref=15464)
+
 
 
