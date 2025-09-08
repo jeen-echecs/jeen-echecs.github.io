@@ -63,7 +63,7 @@ Les inscriptions se font en ligne sur le site [**https://www.helloasso.com/assoc
 
 | Jour     | Horaire      | Niveau                              | Professeur | 
 | -------- |:------------:|:-----------------------------------:|:----------:| 
-| Lundi    | à 20h30      | Perfectionnement - objectif 1500    | Yacine Boukhris-Ferré             | 
+| Lundi    | à 19h15      | Perfectionnement - objectif 1500    | Vianney Domenech             | 
 | Mercredi | à 21h        | Compétition - (1500 - 1800)         | Nikolaÿ Yordanov (formateur FIDE) | 
 | Jeudi    | à 19h        | Élite (1700 - 2000)                 | Manuel Apicella (GMI)      | 
 | Jeudi    | à 20h30      | Master (1900 - 2200)                | Manuel Apicella (GMI)      | 
