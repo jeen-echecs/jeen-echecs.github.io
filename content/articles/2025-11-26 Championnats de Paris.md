@@ -1,8 +1,8 @@
-Title: Championnat de Paris Jeunes 2025 — La JÉEN massivement qualifiée pour les IDF
+Title: Championnat de Paris Jeunes 2025 — Le JÉEN massivement qualifié
 Date: 2025-11-26
 Category: Actualités
 tags: JÉEN, échecs, ffe, paris
-Description: Le 11 novembre dernier, la Halle Carpentier accueillait près de **612 jeunes joueurs** venus disputer les championnats qualificatifs de Paris. La JÉEN y présentait une délégation particulièrement fournie, avec **98 joueurs**, l’une des plus importantes du département.
+Description: Le 11 novembre dernier, la Halle Carpentier accueillait près de **612 jeunes joueurs** venus disputer les championnats qualificatifs de Paris. Le JÉEN y présentait une délégation particulièrement fournie, avec **98 joueurs**, l’une des plus importantes du département.
 
 Le 11 novembre dernier, la Halle Carpentier accueillait près de **612 jeunes joueurs** venus disputer les championnats qualificatifs de Paris. Le JÉEN y présentait une délégation particulièrement fournie, avec **98 joueurs**, l’une des plus importantes du département.
 
