@@ -18,7 +18,7 @@ Les résultats de la journée confirment la progression du groupe.
 À noter notamment, **Lucas Duong** qui réalise un parcours remarquable avec **7 victoires en 7 parties**, un score parfait qui lui offre le **titre de champion de Paris U12**.  
 
 ### 🎫 Une qualification massive pour les IDF  
-Avec **30 qualifiés**, la JÉEN confirme la solidité de sa formation et la densité de ses jeunes talents.
+Avec **30 qualifiés**, le JÉEN confirme la solidité de sa formation et la densité de ses jeunes talents.
 
 ---
 
