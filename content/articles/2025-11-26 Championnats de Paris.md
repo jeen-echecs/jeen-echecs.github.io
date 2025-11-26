@@ -22,37 +22,37 @@ Avec **30 qualifiés**, la JÉEN confirme la solidité de sa formation et la den
 
 ---
 
-### ✔️ **Liste des qualifiés JÉEN (ordre alphabétique)**  
+### ✔️ Liste des qualifiés JÉEN (ordre alphabétique)
 
-**ABITBOL Hugo**  
-**AOUAD Ines Emily**  
-**AOUAD Lina Amy**  
-**ABT Mathis**  
-**BERKOVITCH Elizabeth**  
-**BOULOS Paul** *(qualifié d’office)*  
-**BOURSIER Enzo**  
-**CAILLOL Alexandre**  
-**DUONG Lucas** *(qualifié d’office)*  
-**EL ZEIN Bassam** *(qualifié d’office)*  
-**EL ZEIN Zayne Eddine** *(qualifié d’office)*  
-**FYTROS Grégoire**  
-**JACQUEMONT Clément**  
-**HANACHE Kai** *(qualifié d’office)*  
-**KHOURY Théo** *(qualifié d’office)*  
-**LAMORELLE Alexey** *(qualifié d’office)*  
-**LAVERGNE Adrien**  
-**MATERIA Mario** *(qualifié d’office)*  
-**MIGUS Ethan**  
-**PASKO Vitaliy**  
-**PEROUIN Simon** *(qualifié d’office)*  
-**RALITERA Loïc**  
-**SANCHEZ TARAJ Kyan**  
-**SAUNIER Aristide** *(qualifié d’office)*  
-**SAUNIER Augustin** *(qualifié d’office)*  
-**SEGOND GENOVESI Florestan**  
-**VIOLINI Enrico Giuseppe**  
-**YAZDI Adrian**  
-**ZYLBERSZTEJN-DONATO Arthur**
+- ABITBOL Hugo  
+- AOUAD Ines Emily  
+- AOUAD Lina Amy  
+- ABT Mathis  
+- BERKOVITCH Elizabeth  
+- BOULOS Paul *(qualifié d’office)*  
+- BOURSIER Enzo  
+- CAILLOL Alexandre  
+- DUONG Lucas *(qualifié d’office)*  
+- EL ZEIN Bassam *(qualifié d’office)*  
+- EL ZEIN Zayne Eddine** *(qualifié d’office)*  
+- FYTROS Grégoire  
+- JACQUEMONT Clément  
+- HANACHE Kai *(qualifié d’office)*  
+- KHOURY Théo *(qualifié d’office)*  
+- LAMORELLE Alexey** *(qualifié d’office)*  
+- LAVERGNE Adrien  
+- MATERIA Mario *(qualifié d’office)*  
+- MIGUS Ethan  
+- PASKO Vitaliy  
+- PEROUIN Simon *(qualifié d’office)*  
+- RALITERA Loïc  
+- SANCHEZ TARAJ Kyan  
+- SAUNIER Aristide *(qualifié d’office)*  
+- SAUNIER Augustin *(qualifié d’office)*  
+- SEGOND GENOVESI Florestan  
+- VIOLINI Enrico Giuseppe  
+- YAZDI Adrian  
+- ZYLBERSZTEJN-DONATO Arthur
 
 ---
 
