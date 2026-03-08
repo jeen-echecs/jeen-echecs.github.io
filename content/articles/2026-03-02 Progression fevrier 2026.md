@@ -1,4 +1,4 @@
-Title: Performances janvier 2026
+Title: Performances février 2026
 Date: 2026-03-02
 Category: Actualités
 tags: jeen, échecs, performance, elo
