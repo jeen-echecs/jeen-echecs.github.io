@@ -1,0 +1,14 @@
+[project]
+name = "jeen-echecs-github-io"
+version = "0.1.0"
+description = "Website for Jeen Echecs"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ghp-import==2.1.0",
+    "markdown==3.10.2",
+    "pelican==4.11.0.post0",
+    "pelican-photos==1.6.2",
+    "pelican-seo==1.4.0",
+    "pelican-sitemap==1.2.2",
+]

@@ -8,7 +8,9 @@ To generate the pages that will be published on the website, you need to install
 
 The setup is done with the command line :
 
-    > pip install -r requirements.txt
+    > curl -LsSf https://astral.sh/uv/install.sh | sh # if you need to install uv
+    > uv sync
+    > make
 
 You are ready to contribute to the website with the [Pelican framework](https://docs.getpelican.com/en/latest/quickstart.html).
 
