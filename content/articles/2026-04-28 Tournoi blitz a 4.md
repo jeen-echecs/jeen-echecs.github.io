@@ -6,7 +6,7 @@ Description: Ce samedi 25 avril, Daiane, Eva et Arnaud ont été invitées au to
 
 Ce samedi 25 avril, Daiane, Eva et Arnaud ont été invitées au tout premier Trophée de Blitz à 4 mixte du club de Bagneux !
 
-Huit équipes, chacun composée d’une joueuse et un joueur, s'affrontaient dans cette variante délirante des échecs : deux échiquiers en parallèle, les pièces capturées sur l'un... réapparaissent sur l'autre. De quoi devenir un maître de la tactique et des pièges !
+Huit équipes, chacune composée d’une joueuse et d’un joueur, s'affrontaient dans cette variante délirante des échecs : deux échiquiers en parallèle, les pièces capturées sur l'un... réapparaissent sur l'autre. De quoi devenir un maître de la tactique et des pièges !
 
 Bravo à Daiane et Vincent qui décrochent une belle 2ème place ! Eva et Victor terminent 4èmes, et Shirin et Arnaud clôturent le classement.
 
