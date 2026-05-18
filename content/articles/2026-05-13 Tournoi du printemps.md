@@ -1,4 +1,4 @@
-Title: Résultats de tournois
+Title: Résultats de tournois du printemps
 Date: 2026-05-13
 Category: Actualités
 tags: jeen, échecs, tournoi
