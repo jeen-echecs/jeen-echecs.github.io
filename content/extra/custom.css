@@ -34,7 +34,7 @@ td {
     padding: 5px 0;
 }
 
-.entry-content img {
+.entry-content, .summary img {
     max-width: 100%;
     height: auto;
     display: block;
