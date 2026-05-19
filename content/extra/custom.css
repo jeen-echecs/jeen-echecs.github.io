@@ -33,3 +33,11 @@ th {
 td {
     padding: 5px 0;
 }
+
+.entry-content img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

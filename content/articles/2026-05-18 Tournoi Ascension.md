@@ -4,7 +4,16 @@ Category: Actualités
 tags: jeen, échecs, tournoi
 Description: Lors de cette semaine de l’Ascension, 30 de nos joueuses et joueurs ont arpenté les tournois d’Île-de-France et d'ailleurs.
 
-Lors de cette semaine de l’Ascension, 30 de nos joueuses et joueurs ont arpenté les tournois d’Île-de-France et d'ailleurs.
+Lors de cette semaine de l’Ascension, une trentaine de nos joueuses et joueurs ont arpenté les tournois d’Île-de-France et d'ailleurs.
+
+**Championnat de France des aveugles et déficients visuels 2026**
+
+Eva (1818) participait pour la première fois au championnat de France individuel des aveugles et déficients visuels organisé à Saint-Jean-de-Braye, près d’Orléans. 
+
+Dans ce tournoi mixte, avec le [score de 6 points sur 7](https://echecs.asso.fr/Resultats.aspx?URL=Tournois/Id/71042/71042&Action=Cl) et une performance à 2040 (+222), elle termine première ex aequo, deuxième au départage, et est donc vice-championne de France 2026 dans la catégorie handicap visuel. 
+
+![Podium Eva Échecs championnat de france des aveugles et déficients visuels 2026]({static}/images/2026-05-19_titre_eva.jpg)
+<div align="center"><i>Photo : club photo Abraysien</i></div>
 
 **47e Open d’Issy-les-Moulineaux**
 
@@ -54,11 +63,8 @@ Paul (1853), Guillaume (1762) et Charles (1399) participaient parallèlement au 
 Paul termine le tournoi avec 2,5/5, Guillaume avec 2/5 et Charles avec 1/5. 
 
 
-**Championnat de France des aveugles et déficients visuels 2026**
 
-Eva (1818) participait pour la première fois au championnat de France individuel des aveugles et déficients visuels organisé à Saint-Jean-de-Braye, près d’Orléans. 
 
-Avec 6/7 points et une performance de +222, elle termine 1ère ex aequo, deuxième au départage, et est donc vice-championne de France 2026 dans la catégorie handicap visuel. 
 
 
 **4e tournoi international de Champignol (Saint-Maur-des-Fossés)**
