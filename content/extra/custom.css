@@ -34,10 +34,11 @@ td {
     padding: 5px 0;
 }
 
-.entry-content, .summary img {
+.entry-content img, .summary img {
     max-width: 100%;
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 2px;
 }
