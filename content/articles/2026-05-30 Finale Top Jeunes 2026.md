@@ -20,7 +20,7 @@ Les résultats complets sur [le site de la fédération](https://www.echecs.asso
 
 Tout au long de la compétition, les rencontres ont été très accrochées, avec leur lot de retournements de situation, de victoires importantes et de défaites frustrantes.
 
-Le groupe composé de **Paul, Kai, Bassam, Mario, Loïc, Lucas, Aristide, Zein** et des plus jeunes du club a défendu les couleurs du J.E.E.N. avec engagement et combativité dans une compétition où chaque point comptait.
+Le groupe composé de **Paul, Kai, Bassam, Mario, Loïc, Lucas, Aristide, Zayne, et Simon** a défendu les couleurs du J.E.E.N. avec engagement et combativité dans une compétition où chaque point comptait.
 
 Comme souvent dans un Top Jeunes, les émotions ont été nombreuses : analyses de parties, stress des fins de match, encouragements collectifs, blitz improvisés dans les vestiaires et moments de partage entre joueurs.
 
@@ -41,7 +41,7 @@ Un grand merci :
 
 ## 👏 Bravo aux joueurs
 
-Bravo à tous les jeunes du J.E.E.N. pour leur comportement, leur engagement et leur combativité durant toute la compétition.
+Bravo à tous les jeunes du J.E.E.N qui ont participé à cette phase finale ainsi qu’à **Augustin, Théo, Karl et Alexey** qui ont participé aux phases précédentes et à la qualification dans la poule haute. Leur comportement, leur engagement et leur combativité durant toute la compétition ont été exemplaires, et ils peuvent être fiers de leur parcours.
 
 Même si le résultat final laisse un goût d’inachevé après le magnifique titre remporté l’an dernier, cette expérience servira forcément pour la suite.
 
