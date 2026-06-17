@@ -126,6 +126,50 @@ def test_detect_new_fide_players():
     assert new_players == [{"first_name": "Hugo", "rating": 1537}]
 
 
+def test_detect_new_fide_players_ignores_inactive_gap():
+    """Players absent one month but rated before are not first-time FIDE players."""
+    frame = pd.DataFrame(
+        [
+            {"id_number": "30", "name": "Belkhodja, Slim", "fed": "FRA", "rating": 2400, "date": "2026-04-01"},
+            {"id_number": "30", "name": "Belkhodja, Slim", "fed": "FRA", "rating": 2410, "date": "2026-06-01"},
+            {"id_number": "20", "name": "Fresh, Face", "fed": "FRA", "rating": 1537, "date": "2026-06-01"},
+        ]
+    )
+    roster = pd.DataFrame(
+        {
+            "fide_id": ["30", "20"],
+            "first_name": ["Slim", "Hugo"],
+            "last_name": ["Belkhodja", "Fresh"],
+        }
+    )
+
+    new_players = detect_new_fide_players(frame, roster, "2026-05-01", "2026-06-01")
+    assert new_players == [{"first_name": "Hugo", "rating": 1537}]
+
+
+def test_detect_new_fide_players_ignores_federation_change():
+    """Earlier ratings under another federation must not count as a first rating."""
+    frame = pd.DataFrame(
+        [
+            {"id_number": "600229", "name": "Belkhodja, Slim", "fed": "TUN", "rating": 2270, "date": "2026-02-01"},
+            {"id_number": "600229", "name": "Belkhodja, Slim", "fed": "TUN", "rating": 2270, "date": "2026-03-01"},
+            {"id_number": "600229", "name": "Belkhodja, Slim", "fed": "TUN", "rating": 2267, "date": "2026-04-01"},
+            {"id_number": "600229", "name": "Belkhodja, Slim", "fed": "FRA", "rating": 2267, "date": "2026-05-01"},
+            {"id_number": "20", "name": "Fresh, Face", "fed": "FRA", "rating": 1733, "date": "2026-05-01"},
+        ]
+    )
+    roster = pd.DataFrame(
+        {
+            "fide_id": ["600229", "20"],
+            "first_name": ["Slim", "Cyprien"],
+            "last_name": ["Belkhodja", "Fresh"],
+        }
+    )
+
+    new_players = detect_new_fide_players(frame, roster, "2026-04-01", "2026-05-01")
+    assert new_players == [{"first_name": "Cyprien", "rating": 1733}]
+
+
 def test_render_article_template():
     period = report_month_to_period("2026-02")
     performers = [

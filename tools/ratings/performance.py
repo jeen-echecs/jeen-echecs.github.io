@@ -78,9 +78,36 @@ def load_fide_frame(
         f"FROM fide_ratings WHERE fed IN ({placeholders}) ORDER BY date"
     )
     frame = pd.read_sql_query(query, conn, params=list(federations))
+    return _normalize_fide_frame(frame)
+
+
+def load_roster_fide_frame(conn, roster_df: pd.DataFrame) -> pd.DataFrame:
+    """Load full rating history for club roster members (any federation)."""
+    int_ids: list[int] = []
+    for fide_id in roster_df["fide_id"]:
+        normalized = normalize_fide_id(str(fide_id))
+        if normalized.isdigit():
+            int_ids.append(int(normalized))
+
+    if not int_ids:
+        return pd.DataFrame(columns=["id_number", "name", "fed", "rating", "date"])
+
+    placeholders = ", ".join("?" for _ in int_ids)
+    query = (
+        f"SELECT id_number, name, fed, rating, date "
+        f"FROM fide_ratings "
+        f"WHERE CAST(TRIM(id_number) AS INTEGER) IN ({placeholders}) "
+        f"ORDER BY date"
+    )
+    frame = pd.read_sql_query(query, conn, params=int_ids)
+    return _normalize_fide_frame(frame)
+
+
+def _normalize_fide_frame(frame: pd.DataFrame) -> pd.DataFrame:
     if frame.empty:
         return frame
 
+    frame = frame.copy()
     frame["id_number"] = frame["id_number"].astype(str).map(
         lambda value: normalize_fide_id(value) if value else value
     )
@@ -140,14 +167,23 @@ def detect_new_fide_players(
     end_month: str,
 ) -> list[dict]:
     """
-    Find club roster members with a rating at end_month but none at start_month.
+    Find club roster members receiving their first-ever FIDE rating this period.
+
+    Uses full rating history per roster member (all federations). A player is new
+    when they appear on the end_month list, were absent on the start_month list,
+    and have no rating snapshot strictly before start_month.
     """
     if fide_players_df.empty or roster_df.empty:
         return []
 
-    start_ids = set(
-        fide_players_df[fide_players_df["date"] == start_month]["id_number"].astype(str)
-    )
+    start_month_ids = {
+        normalize_fide_id(str(fide_id))
+        for fide_id in fide_players_df[fide_players_df["date"] == start_month]["id_number"]
+    }
+    prior_ids = {
+        normalize_fide_id(str(fide_id))
+        for fide_id in fide_players_df[fide_players_df["date"] < start_month]["id_number"]
+    }
     end_rows = (
         fide_players_df[fide_players_df["date"] == end_month]
         .drop_duplicates("id_number")
@@ -157,7 +193,11 @@ def detect_new_fide_players(
     new_players: list[dict] = []
     for _, roster_row in roster_df.iterrows():
         fide_id = normalize_fide_id(str(roster_row["fide_id"]))
-        if fide_id in start_ids or fide_id not in end_rows.index:
+        if (
+            fide_id in prior_ids
+            or fide_id in start_month_ids
+            or fide_id not in end_rows.index
+        ):
             continue
         new_players.append(
             {

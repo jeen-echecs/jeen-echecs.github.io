@@ -21,6 +21,7 @@ from .performance import (
     calculate_monthly_improvements,
     detect_new_fide_players,
     load_fide_frame,
+    load_roster_fide_frame,
     report_month_to_period,
 )
 from .roster import (
@@ -59,6 +60,7 @@ def cmd_generate(args: argparse.Namespace) -> int:
 
     with sqlite3.connect(db_path) as conn:
         frame = load_fide_frame(conn, config["federations"])
+        roster_frame = load_roster_fide_frame(conn, roster)
 
     performers = calculate_monthly_improvements(
         frame,
@@ -67,7 +69,7 @@ def cmd_generate(args: argparse.Namespace) -> int:
         period.end_month,
     )
     new_players = detect_new_fide_players(
-        frame,
+        roster_frame,
         roster,
         period.start_month,
         period.end_month,
