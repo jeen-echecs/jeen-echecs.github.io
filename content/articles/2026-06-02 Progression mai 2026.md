@@ -1,5 +1,5 @@
 Title: Performances mai 2026
-Date: 2026-06-17
+Date: 2026-06-02
 Category: Actualités
 tags: jeen, échecs, performance, elo
 Description: Le mois de mai a vu de nombreux joueurs du club progressé. Voici les plus belles performance du mois, parues avec la publication des derniers elo.
