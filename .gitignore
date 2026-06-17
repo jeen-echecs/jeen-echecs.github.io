@@ -3,3 +3,8 @@ output/
 seo_report.html
 *Zone.Identifier
 .venv
+tools/ratings/data/fide_ratings.db
+tools/ratings/data/*.txt
+tools/ratings/data/dl.zip
+Data.mdb
+Data.sqlite

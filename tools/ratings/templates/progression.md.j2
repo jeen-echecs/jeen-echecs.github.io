@@ -1,0 +1,21 @@
+Title: Performances {{ month_name_fr }} {{ year }}
+Date: {{ publish_date }}
+Category: Actualités
+tags: jeen, échecs, performance, elo
+Description: Le mois de {{ month_name_fr }} a vu de nombreux joueurs du club progressé. Voici les plus belles performance du mois, parues avec la publication des derniers elo.
+
+Le club vous présente les joueurs ayant le plus progressé le mois passé. Ainsi le mois de {{ month_name_fr }} a vu de nombreux joueurs engranger de précieux points elo. Voici les {{ top_n }} plus belles progressions, parues lors de la dernière publication des elo par la FIDE.
+
+| Nom                       | Ancien elo      | Nouvel elo  | Progression |
+| ------------------------- |:---------------:|:-----------:| -----------:|
+{% for row in performer_rows -%}
+{{ row }}
+{% endfor %}
+
+{% if new_players -%}
+<br />
+
+Nous pouvons également féliciter nos jeunes joueurs qui par leurs efforts répétés en compétition se sont vus attribuer leur premier elo FIDE officiel. En {{ month_name_fr }}, {% for player in new_players -%}**{{ player.first_name }} ({{ player.rating }})**{% if not loop.last %} et {% endif %}{% endfor %} obtiennent leur premier classement elo. Bravo à eux!
+{% else -%}
+<br />
+{% endif %}

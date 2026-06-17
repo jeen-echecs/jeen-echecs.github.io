@@ -1,0 +1,126 @@
+name: Monthly Progression Article
+
+on:
+  schedule:
+    - cron: "0 6 3 * *"
+  workflow_dispatch:
+    inputs:
+      report_month:
+        description: "Report month (YYYY-MM). Defaults to previous calendar month."
+        required: false
+        type: string
+      publish_date:
+        description: "Article publish date (YYYY-MM-DD). Defaults to today."
+        required: false
+        type: string
+      dry_run:
+        description: "Generate the article but do not commit or push."
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version-file: ".python-version"
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v7
+        with:
+          version: "0.11.6"
+
+      - name: Install dependencies
+        run: uv sync --locked
+
+      - name: Restore FIDE ratings database cache
+        uses: actions/cache/restore@v4
+        id: cache-db
+        with:
+          path: tools/ratings/data/fide_ratings.db
+          key: fide-ratings-db-v1
+          restore-keys: |
+            fide-ratings-db-v1
+
+      - name: Bootstrap database on cache miss
+        if: steps.cache-db.outputs.cache-hit != 'true'
+        run: |
+          mkdir -p tools/ratings/data
+          uv run python -m tools.ratings bootstrap --months 6
+
+      - name: Resolve report month
+        id: dates
+        run: |
+          if [ -n "${{ github.event.inputs.report_month }}" ]; then
+            REPORT_MONTH="${{ github.event.inputs.report_month }}"
+          else
+            REPORT_MONTH="$(date -u -d '1 month ago' +%Y-%m)"
+          fi
+
+          if [ -n "${{ github.event.inputs.publish_date }}" ]; then
+            PUBLISH_DATE="${{ github.event.inputs.publish_date }}"
+          else
+            PUBLISH_DATE="$(date -u +%Y-%m-%d)"
+          fi
+
+          FIDE_TOKEN="$(REPORT_MONTH="${REPORT_MONTH}" uv run python - <<'PY'
+          from tools.ratings.performance import report_month_to_period
+          import os
+          period = report_month_to_period(os.environ["REPORT_MONTH"])
+          print(period.fide_token)
+          PY
+          )"
+
+          echo "report_month=${REPORT_MONTH}" >> "$GITHUB_OUTPUT"
+          echo "publish_date=${PUBLISH_DATE}" >> "$GITHUB_OUTPUT"
+          echo "fide_token=${FIDE_TOKEN}" >> "$GITHUB_OUTPUT"
+
+      - name: Download latest FIDE file
+        run: |
+          uv run python -m tools.ratings download \
+            --month "${{ steps.dates.outputs.fide_token }}" \
+            --retries 5 \
+            --retry-delay 86400
+
+      - name: Generate progression article
+        run: |
+          uv run python -m tools.ratings generate \
+            --report-month "${{ steps.dates.outputs.report_month }}" \
+            --publish-date "${{ steps.dates.outputs.publish_date }}" \
+            --output content/articles/
+
+      - name: Save FIDE ratings database cache
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: tools/ratings/data/fide_ratings.db
+          key: fide-ratings-db-v1
+
+      - name: Commit article
+        if: github.event.inputs.dry_run != 'true'
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add content/articles/
+          if git diff --cached --quiet; then
+            echo "No new article to commit."
+            exit 0
+          fi
+          MONTH_LABEL="$(REPORT_MONTH="${{ steps.dates.outputs.report_month }}" uv run python - <<'PY'
+          from tools.ratings.performance import report_month_to_period
+          import os
+          period = report_month_to_period(os.environ["REPORT_MONTH"])
+          print(f"{period.month_name_fr} {period.year}")
+          PY
+          )"
+          git commit -m "bot: add Performances ${MONTH_LABEL}"
+          git push

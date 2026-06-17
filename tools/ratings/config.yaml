@@ -1,0 +1,8 @@
+club_ref: 836
+federations:
+  - FRA
+  - LBN
+  - UKR
+top_n: 5
+db_path: data/fide_ratings.db
+roster_path: data/jeen_roster.csv

@@ -6,9 +6,22 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "ghp-import==2.1.0",
+    "jinja2>=3.1.0",
     "markdown==3.10.2",
+    "pandas>=2.0.0",
     "pelican==4.11.0.post0",
     "pelican-photos==1.6.2",
     "pelican-seo==1.4.0",
     "pelican-sitemap==1.2.2",
+    "pyyaml>=6.0",
+    "requests>=2.31.0",
 ]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tools/ratings/tests"]
+pythonpath = ["."]
