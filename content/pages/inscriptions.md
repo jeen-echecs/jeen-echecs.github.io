@@ -1,5 +1,5 @@
 title: Inscriptions
-date: 2025-07-03
+date: 2026-07-06
 tags: inscription, club échecs, paris
 description: Les principaux objectifs du JÉEN consistent à développer les échecs et à faire progresser tout joueur, quel que soit son niveau. Il s’adresse aussi bien aux joueurs "loisirs" qui cherchent à s’amuser sans pression, qu’aux joueurs désirant pratiquer la compétition. Le club rassemble plus de 130 licenciés qui se retrouvent de manière hebdomadaire lors des sessions de jeu ainsi que lors des différents tournois.
  
@@ -8,10 +8,11 @@ description: Les principaux objectifs du JÉEN consistent à développer les éc
 
 ### Informations
 
-Du *11 septembre 2025 au 26 juin 2026*, sauf pendant les congés scolaires.
+Du *7 septembre 2026 au 26 juin 2027*, sauf pendant les congés scolaires.
 
-Les inscriptions se font en ligne sur le site [**https://www.helloasso.com/associations/le-jeen/adhesions/inscription-au-jeen-1**](https://www.helloasso.com/associations/le-jeen/adhesions/inscription-au-jeen-1).
+Les inscriptions se font en ligne sur le site [**HelloAsso du club**](https://www.helloasso.com/associations/le-jeen/adhesions/inscription-au-jeen-2026-2027).
 
+Les horaires et lieux des cours sont les suivants :
 
 | Jour     | Horaire       | Lieu                                                        | Activité, niveau, public | 
 | -------- |:-------------:|:-----------------------------------------------------------:|:------------------------| 
@@ -19,21 +20,18 @@ Les inscriptions se font en ligne sur le site [**https://www.helloasso.com/assoc
 | Mercredi | 13h30 / 16h30 | 23 av. du Parc des Princes                                  | cours<br />scolaires <12ans       | 
 | Vendredi | 18h / 21h     | 23 av. du Parc des Princes                                  | cours, jeu, tous niveaux<br />enfants >12ans et adultes | 
 | Samedi   | 14h / 17h     | 53 rue Erlanger                                             | cours Jeunes : 5 professeurs selon niveaux, âges, affinités |
-| Dimanche | une ou deux fois par mois |                                                 | compétitions : équipes Critériums et Interclubs, jeunes et adultes |
+| Dimanche | 1 à 2 fois par mois |                                                       | compétitions : équipes Critériums et Interclubs, jeunes et adultes |
 
 ### Tarifs
 
-L’inscription inclut la licence fédérale, la participation aux rencontres par équipes, aux tournois internes, **les cours par des coachs diplômés**, **l’accès illimité** à tous les cours hebdomadaires.
+L’inscription de **320€** inclut la licence fédérale, la participation aux rencontres par équipes, aux tournois internes, **les cours par des coachs diplômés**, **l’accès illimité** à tous les cours hebdomadaires.
 
-Plusieurs formats d’inscription sont proposés :
-
-- l’inscription *"membre exclusif"* de **320€**,
-- l’inscription *"généreux donateur"* qui prend la forme d’un don supérieur à **720€ éligible à une réduction d’impôts de 66%**, soit **245** après déduction fiscale[^1].
+<font color="red">**PROMOTION** : Jusqu’au 4 septembre, l’inscription est à **300€**. Profitez-en pour vous inscrire dès maintenant !</font>
 
 Par ailleurs, des réductions sont appliquées si plusieurs membres d’une même famille s’inscrivent au club. L’inscription doit alors se faire *directement* auprès du président du club.
 
-- *-25%* à partir de la 2ème inscription,
-- *-40%* à partir de la 3ème inscription.
+- *-25%* à partir de la 2ème inscription, soit **480€** pour 2 membres d’une même famille.
+- *-40%* à partir de la 3ème inscription, soit **576€** pour 3 membres d’une même famille.
 
 Les moyens de paiement acceptés sont :
 
@@ -43,13 +41,25 @@ Les moyens de paiement acceptés sont :
 - [Pass’Sport](https://www.education.gouv.fr/le-pass-sport-323333),
 - [Réduc’Sport](https://paris.franceolympique.com/R%C3%A9duc_Sport/).
 
+Pour régler par chèque en plusieurs fois :
+
+- Inscrire la **date du jour** sur **tous les chèques**, et indiquer au dos la **date de remise en banque souhaitée**.
+- Ordre des chèques : "JÉEN"
+- Envoi par courrier : JÉEN, 75 rue d'Auteuil, 75016 PARIS
+
+Le club vous offre aussi la possibilité de [**faire un don**]({filename}/pages/page_dons.md) pour soutenir le développement du club. Pour cela, vous pouvez utiliser le formulaire de don en ligne sur [HelloAsso](https://www.helloasso.com/associations/le-jeen/formulaires/2?_gl=1*149e8pf*_gcl_au*NzM1NzE4MDE2LjE3ODMwMDgxMzQuMjMzOTQ0Mzk0LjE3ODMwMDg2NzAuMTc4MzAxMDM3NQ).
+
+Pour terminer, il est possible de prendre seulement la licence fédérale, sans suivre les cours, pour un tarif de **70€** pour l’ensemble de la saison.
+
+Les inscriptions se font en ligne sur le site [**HelloAsso du club**](https://www.helloasso.com/associations/le-jeen/adhesions/inscription-au-jeen-2026-2027).
+
 ---
 
 ## Cours en ligne
 
 ### Informations
 
-Le club offre la possibilité de suivre des cours en ligne à partir de la semaine du 9 septembre.
+Le club offre la possibilité de suivre des cours en ligne à partir de la semaine du 7 septembre.
 
 - 4 niveaux, du perfectionnement à la maîtrise
 - 3 [entraîneurs professionnels]({static}/static/infos-cours-en-ligne.pdf)
@@ -58,7 +68,7 @@ Le club offre la possibilité de suivre des cours en ligne à partir de la semai
 - 30 séances sur la saison sportive
 - les cours sont organisés en collaboration avec les clubs d’Agen, La Farlède-Toulon, Précy-sur-Oise, Val Parisis-Franconville
 
-Les inscriptions se font en ligne sur le site [**https://www.helloasso.com/associations/le-jeen/adhesions/inscription-au-jeen-1**](https://www.helloasso.com/associations/le-jeen/adhesions/inscription-au-jeen-1).
+Les inscriptions se font en ligne sur le site [**HelloAsso du club**](https://www.helloasso.com/associations/le-jeen/adhesions/inscription-au-jeen-2026-2027).
 
 
 | Jour     | Horaire      | Niveau                              | Professeur | 
@@ -80,4 +90,4 @@ L’inscription inclut la licence fédérale B et l’accès à la formation de 
 
 L’inscription est au tarif unique de **160€** pour chaque session.
 
-[^1]: *Le JÉEN est une association agréée d’intérêt général et est donc habilitée à délivrer des attestations de dons*.
+Les inscriptions se font en ligne sur le site [**HelloAsso du club**](https://www.helloasso.com/associations/le-jeen/adhesions/inscription-au-jeen-2026-2027).

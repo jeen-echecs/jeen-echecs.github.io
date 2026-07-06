@@ -90,6 +90,7 @@ DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
     ('Présentation', '/pages/presentation-du-club.html'),
     ('Inscriptions', '/pages/inscriptions.html'),
+    ('Dons', '/pages/dons.html'),
     ('Histoire et Palmarès', '/pages/histoire-et-palmares.html'),
     ('Puzzles', '/puzzles/'),
 )
