@@ -19,8 +19,8 @@ Les horaires et lieux des cours sont les suivants :
 | Mardi    | 18h / 21h     | 23 av. du Parc des Princes                                  | cours, jeu, tous niveaux<br />enfants >12ans et adultes | 
 | Mercredi | 13h30 / 16h30 | 23 av. du Parc des Princes                                  | cours<br />scolaires <12ans       | 
 | Vendredi | 18h / 21h     | 23 av. du Parc des Princes                                  | cours, jeu, tous niveaux<br />enfants >12ans et adultes | 
-| Samedi   | 14h / 17h     | 53 rue Erlanger                                             | cours Jeunes : 5 professeurs selon niveaux, âges, affinités |
-| Dimanche | 1 à 2 fois par mois |                                                       | compétitions : équipes Critériums et Interclubs, jeunes et adultes |
+| Samedi   | 14h / 17h     | 71, rue Chardon-Lagache                                     | cours Jeunes : 5 professeurs selon niveaux, âges, affinités |
+| Dimanche | 1 à 2 fois par mois | 71, rue Chardon-Lagache                               | compétitions : équipes Critériums et Interclubs, jeunes et adultes |
 
 ### Tarifs
 
