@@ -26,8 +26,6 @@ Les horaires et lieux des cours sont les suivants :
 
 L’inscription de **320€** inclut la licence fédérale, la participation aux rencontres par équipes, aux tournois internes, **les cours par des coachs diplômés**, **l’accès illimité** à tous les cours hebdomadaires.
 
-<font color="red">**PROMOTION** : Jusqu’au 4 septembre, l’inscription est à **300€**. Profitez-en pour vous inscrire dès maintenant !</font>
-
 Par ailleurs, des réductions sont appliquées si plusieurs membres d’une même famille s’inscrivent au club. L’inscription doit alors se faire *directement* auprès du président du club.
 
 - *-25%* à partir de la 2ème inscription, soit **480€** pour 2 membres d’une même famille.
