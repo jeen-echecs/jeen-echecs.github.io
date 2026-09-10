@@ -57,7 +57,7 @@ Les inscriptions se font en ligne sur le site [**HelloAsso du club**](https://ww
 
 ### Informations
 
-Le club offre la possibilité de suivre des cours en ligne à partir de la semaine du 7 septembre.
+Le club offre la possibilité de suivre des cours en ligne à partir de la semaine du 14 septembre.
 
 - 4 niveaux, du perfectionnement à la maîtrise
 - 3 [entraîneurs professionnels]({static}/static/infos-cours-en-ligne.pdf)
