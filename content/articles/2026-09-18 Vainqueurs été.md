@@ -14,6 +14,8 @@ Grille des résultats : [Fédération Française des Échecs](https://echecs.ass
 **Luc** gagne le championnat de France Senior Plus qui s'est joué à Vichy du 8 au 16 août ! Classé 2303, il fait une performance à 2359 !  
 Grille des résultats : [Fédération Française des Échecs](https://echecs.asso.fr/Resultats.aspx?URL=Tournois/Id/72262/72262&Action=Ga)
 
+![Podium Luc Bergez]({static}/images/2026-09-18_podium_luc.jpg)
+
 **Zayne** gagne l'Open A de l'Isle Adam qui s'est joué les 12 et 13 septembre !
 Classé 2291, il fait une performance à 2385 !
 (Son frère Bassam se classe 11e du même tournoi !)  
