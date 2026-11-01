@@ -73,8 +73,7 @@ Les inscriptions se font en ligne sur le site [**HelloAsso du club**](https://ww
 | -------- |:------------:|:-----------------------------------:|:----------:| 
 | Lundi    | à 19h15      | Perfectionnement - objectif 1500    | Vianney Domenech             | 
 | Mercredi | à 21h        | Compétition - (1500 - 1800)         | Nikolaÿ Yordanov (formateur FIDE) | 
-| Jeudi    | à 19h        | Élite (1700 - 2000)                 | Manuel Apicella (GMI)      | 
-| Jeudi    | à 20h30      | Master (1900 - 2200)                | Manuel Apicella (GMI)      | 
+| Jeudi    | à 19h30      | Élite (1700 - 2000)                 | Manuel Apicella (GMI)      | 
 
 <br />
 Si vous voulez en savoir plus sur nos entraineurs, n’hésitez pas à lire [**la fiche d’information détaillée.**]({static}/static/infos-cours-en-ligne.pdf).
