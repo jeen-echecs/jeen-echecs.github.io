@@ -1,5 +1,5 @@
 PY?=
-PELICAN?=pelican
+PELICAN?="uv run pelican"
 PELICANOPTS=
 
 BASEDIR=$(CURDIR)
